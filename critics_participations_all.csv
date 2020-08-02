@@ -1,0 +1,404 @@
+year,name,living_place,is_chairman,got_sick,critic_id
+1977,Rolf Becker,Hamburg,,,0
+1977,Humbert Fink,Klagenfurt,,,1
+1977,Gertrud Fussenegger,Leonding b.Linz,,,2
+1977,Peter Härtling,Walldorf,,,3
+1977,Alfred Kolleritsch,Graz,,,4
+1977,Rudolf Walter Leonhardt,Hamburg,,,5
+1977,Kuno Raeber,München,,,6
+1977,Marcel Reich-Ranicki,Frankfurt/Main,,,7
+1977,Manès Sperber,Paris,,,8
+1977,Friedrich Torberg,Breitenfurt b.Wien,,,9
+1977,Heinrich Vormweg,Köln-Longerich,,,10
+1977,Hans Weigel,Maria Enzersdorf b.Wien,,,11
+1977,Ernst Willner,Klagenfurt,,,12
+1978,Rolf Becker,Hamburg,,,0
+1978,Humbert Fink,Klagenfurt,,,1
+1978,Gertrud Fussenegger,Leonding,,,2
+1978,Peter Härtling,Frankfurt/Main,,,3
+1978,Rudolf Walter Leonhardt,Hamburg,,,5
+1978,Marcel Reich-Ranicki,Frankfurt/Main,,,7
+1978,Heinrich Vormweg,Köln,,,10
+1978,Hans Weigel,Maria Enzersdorf,,,11
+1978,Kurt Kahl,Wien,,,13
+1978,Adolf Muschg,Zürich,,,14
+1978,Hilde Spiel,Wien,,,15
+1978,Wolfgang Werth,München,,,16
+1978,Ernst Willer,Klagenfurt,,,17
+1979,Rolf Becker,Hamburg,,,0
+1979,Humbert Fink,Klagenfurt,,,1
+1979,Gertrud Fussenegger,,,,2
+1979,Gertrud Fussenegger,Leonding,,,2
+1979,Rudolf Walter Leonhardt,Hamburg,,,5
+1979,Marcel Reich-Ranicki,Frankfurt/Main,,,7
+1979,Heinrich Vormweg,Köln,,,10
+1979,Ernst Willner,Klagenfurt,,,12
+1979,Kurt Kahl,Wien,,,13
+1979,Hilde Spiel,Wien,,,15
+1979,Alois Brandstetter,Klagenfurt,,,18
+1979,Walter Jens,Tübingen,,,19
+1979,Joachim Kaiser,München,,,20
+1979,Otto F. Walter,Oberbipp,,,21
+1980,Humbert Fink,Maria Saal,,,1
+1980,Peter Härtling,Frankfurt/Main,,,3
+1980,Marcel Reich-Ranicki,Frankfurt/Main,,,7
+1980,Ernst Willner,Maria Saal,,,12
+1980,Adolf Muschg,Kilchberg,,,14
+1980,Hilde Spiel,Wien,,,15
+1980,Walter Jens,Tübingen,,,19
+1980,Joachim Kaiser,München,,,20
+1980,Ulrich Greiner,Hamburg,,,22
+1980,Günter Kunert,Itzehoe-Edendorf,,,23
+1980,Klara Obermüller,Zürich,,,24
+1981,Humbert Fink,Klagenfurt,,,1
+1981,Peter Härtling,Frankfurt/Main,,,3
+1981,Marcel Reich-Ranicki,Frankfurt/Main,,,7
+1981,Heinrich Vormweg,Köln,,,10
+1981,Ernst Willner,Klagenfurt,,,12
+1981,Adolf Muschg,Zürich,,,14
+1981,Walter Jens,Tübingen,,,19
+1981,Klara Obermüller,Zürich,,,24
+1981,Hans J. Fröhlich,München,,,25
+1981,Gerd Ueding,Ildenburg,,,26
+1981,Ulrich Weinzierl,Wien,,,27
+1982,Rolf Becker,Hamburg,,,0
+1982,Humbert Fink,Maria Saal,,,1
+1982,Marcel Reich-Ranicki,Frankfurt/Main,,,7
+1982,Heinrich Vormweg,Köln,,,10
+1982,Ernst Willner,Maria Saal,,,12
+1982,Martin Gregor-Dellin,Gröbenzell,,,28
+1982,Walter Hinck,Hoffnungsthal,,,29
+1982,Barbara Mantler-Bondy,München,,,30
+1982,Sylvia Patsch,Innsbruck,,,31
+1982,Gert Ueding,Oldenburg,,,32
+1983,Rolf Becker,Hamburg,,,0
+1983,Humbert Fink,Klagenfurt,,,1
+1983,Marcel Reich-Ranicki,Frankfurt/Main,,,7
+1983,Heinrich Vormweg,Köln,,,10
+1983,Walter Jens,Tübingen,,,19
+1983,Klara Obermüller,Zollikon,,,24
+1983,Ulrich Weinzierl,Wien,,,27
+1983,Martin Gregor-Dellin,Gröbenzell,,,28
+1983,Walter Hinck,Rösrath,,,29
+1983,Gert Ueding,Oldenburg,,,32
+1984,Humbert Fink,Maria Saal,,,1
+1984,Gertrud Fussenegger,Leonding,,,2
+1984,Peter Härtling,Mörfelden-Walldorf,,,3
+1984,Marcel Reich-Ranicki,Frankfurt/Main,,,7
+1984,Walter Jens,Tübingen,,,19
+1984,Klara Obermüller,Zollikon,,,24
+1984,Martin Gregor-Dellin,Gröbenzell,,,28
+1984,Walter Hinck,Rösrath,,,29
+1984,Wolfgang Kraus,Wien,,,33
+1984,Manfred Mixner,Graz,,,34
+1984,Friederike Roth,Stuttgart,,,35
+1985,Humbert Fink,Maria Saal,,,1
+1985,Gertrud Fussenegger,Leonding/Linz,,,2
+1985,Peter Härtling,Mörfelden/Walldorf,,,3
+1985,Marcel Reich-Ranicki,Frankfurt/Main,,,7
+1985,Heinrich Vormweg,Köln,,,10
+1985,Joachim Kaiser,München,,,20
+1985,Klara Obermüller,Zollikon,,,24
+1985,Martin Gregor-Dellin,Gröbenzell,,,28
+1985,Gert Ueding,Tübingen,,,32
+1985,Manfred Mixner,Wien,,,34
+1985,Ingeborg Drewitz,Berlin,,,36
+1986,Humbert Fink,Maria Saal,,,1
+1986,Peter Härtling,Mörfelden-Walldorf,,,3
+1986,Marcel Reich-Ranicki,Frankfurt/Main,,,7
+1986,Heinrich Vormweg,Köln,,,10
+1986,Adolf Muschg,Kilchberg,,,14
+1986,Walter Jens,Tübingen,,True,19
+1986,Klara Obermüller,Zürich,,,24
+1986,Walter Hinck,Roesrath/Hoffnungsthal,,,29
+1986,Gert Ueding,Tübingen,,,32
+1986,Peter Demetz,New Haven (USA),,,37
+1986,Roman Rocek,Wien,,,38
+1987,Peter Demetz,New Haven (USA),,,37
+1987,Manfred Dierks,Bad Zwischenahn-Ofen,,,39
+1987,Jörg Drews,München,,,40
+1987,Eckhard Henscheid,Frankfurt/Main,,,41
+1987,Hellmuth Karasek,Hamburg,,,42
+1987,Werner Liersch,Berlin-Ost,,,43
+1987,Sigrid Löffler,Wien,,,44
+1987,Volkmar Parschalk,Wien,,,45
+1987,Helga Schubert-Helm,Berlin-Ost,,,46
+1987,Reinhardt Stumm,Olsberg,,,47
+1987,Herbert Zeman,Wien,,,48
+1988,Peter Demetz,New Haven (USA),,,37
+1988,Jörg Drews,München,,,40
+1988,Hellmuth Karasek,Hamburg,,,42
+1988,Werner Liersch,Berlin-Ost,,,43
+1988,Herbert Zeman,Wien,,,48
+1988,Volker Hage,Hamburg,,,49
+1988,Andreas Isenschmid,Zürich,,,50
+1988,Urs Jaeggi,Berlin,,,51
+1988,Gisela Lindemann,Hannover,,,52
+1988,Gerhard Melzer,Graz,,,53
+1988,Helga Schubert,Berlin-Ost,,,54
+1989,Peter Demetz,New Haven (USA),,,37
+1989,Hellmuth Karasek,Hamburg,,,42
+1989,Werner Liersch,Berlin-Ost,,,43
+1989,Volker Hage,Hamburg,,,49
+1989,Andreas Isenschmid,Zürich,,,50
+1989,Gisela Lindemann,Hannover,,,52
+1989,Helga Schubert,Berlin-Ost,,,54
+1989,Karl Corino,Frankfurt/Main,,,55
+1989,Werner Krause,Graz,,,56
+1989,Peter von Matt,Dübendorf,,,57
+1989,Heinz Schwarzinger,Paris,,,58
+1990,Peter Demetz,New Haven (USA),,,37
+1990,Hellmuth Karasek,Hamburg,,,42
+1990,Werner Liersch,Berlin-Ost,,,43
+1990,Volker Hage,Hamburg,,,49
+1990,Andreas Isenschmid,Zürich,,,50
+1990,Helga Schubert,Berlin-Ost,,,54
+1990,Karl Corino,Bad Vilbel,,,55
+1990,Peter von Matt,Zürich,,,57
+1990,Heinz Schwarzinger,Paris,,,58
+1990,Marlis Gerhardt,Stuttgart,,,59
+1990,Nils Jensen,Wien,,,60
+1991,Peter Demetz,New Haven (USA),,True,37
+1991,Hellmuth Karasek,Hamburg,,,42
+1991,Sigrid Löffler,Wien,,,44
+1991,Volker Hage,Hamburg,,,49
+1991,Andreas Isenschmid,Zürich,,,50
+1991,Karl Corino,Frankfurt/Main,,,55
+1991,Peter von Matt,Zürich,,,57
+1991,Marlis Gerhardt,Stuttgart,,,59
+1991,Roberto Cazzola,Turin,,,61
+1991,Wolf Donner,Berlin,,True,62
+1991,Stefan Richter,Leipzig,,,63
+1992,Klara Obermüller,Zürich,,,24
+1992,Gert Ueding,Tübingen/,,,32
+1992,Peter Demetz,New Haven (USA),,,37
+1992,Volker Hage,Hamburg,,,49
+1992,Karl Corino,Frankfurt/Main,,,55
+1992,Klaus Amann,Klagenfurt,,,64
+1992,Verena Auffermann,Frankfurt/Main,,,65
+1992,Jurek Becker,Berlin,,,66
+1992,Konstanze Fliedl,Wien,,,67
+1992,Angela Praesent,Reinbek,,,68
+1992,Wilfried Schoeller,Frankfurt/Main,,,69
+1993,Rudolf Walter Leonhardt,Hamburg,,,5
+1993,Peter Demetz,New Haven (USA),True,,37
+1993,Volker Hage,Hamburg,,,49
+1993,Klaus Amann,Klagenfurt,,,64
+1993,Verena Auffermann,Frankfurt/Main,,,65
+1993,Konstanze Fliedl,Wien,,,67
+1993,Angela Praesent,Reinbek,,,68
+1993,Maxim Biller,Hamburg,,,70
+1993,Iso Camartin,Zürich,,,71
+1993,Werner Fuld,Steinebach,,,72
+1993,Wilfrted Schoeller,Frankfurt/Main,,,73
+1994,Peter Demetz,New Haven (USA),True,,37
+1994,Volker Hage,Hamburg,,,49
+1994,Klaus Amann,Klagenfurt,,,64
+1994,Verena Auffermann,Frankfurt/Main,,,65
+1994,Konstanze Fliedl,Wien,,,67
+1994,Wilfried Schoeller,Frankfurt/Main,,,69
+1994,Iso Camartin,Zürich,,,71
+1994,Hans Christoph Buch,Berlin,,,74
+1994,Andreas Isenchmid,Zürich,,,75
+1994,Angela Preasent,Contignac (Frankreich),,,76
+1994,Thomas Rothschild,Stuttgart,,,77
+1995,Peter Demetz,New Haven (USA),True,,37
+1995,Andreas Isenschmid,Zürich,,,50
+1995,Klaus Amann,Klagenfurt,,,64
+1995,Verena Auffermann,Frankfurt/Main,,,65
+1995,Konstanze Fliedl,Wien,,,67
+1995,Wilfried Schoeller,Frankfurt/Main,,,69
+1995,Iso Camartin,Zürich,,,71
+1995,Thomas Rothschild,Stuttgart,,,77
+1995,Thomas Hettche,Berlin,,,78
+1995,Iris Radisch,Hamburg,,,79
+1995,Ferdinand Schmatz,Wien,,,80
+1996,Peter Demetz,New Haven (USA),True,,37
+1996,Klaus Amann,Klagenfurt,,,64
+1996,Verena Auffermann,Frankfurt/Main,,,65
+1996,Wilfried Schoeller,Frankfurt/Main,,,69
+1996,Thomas Hettche,Berlin,,,78
+1996,Iris Radisch,Hamburg,,,79
+1996,Ferdinand Schmatz,Wien,,,80
+1996,Franz Haas,Rom,,,81
+1996,Christoph Kuhn,Zürich,,,82
+1996,Hardy Ruoss,Richterswil,,,83
+1996,Sabine Scholl,Wien,,,84
+1997,Klaus Amann,Klagenfurt,,,64
+1997,Iso Camartin,Zürich,True,,71
+1997,Thomas Hettche,Frankfurt/Main,,,78
+1997,Iris Radisch,Hamburg,,,79
+1997,Hardy Ruoss,Richterswil,,,83
+1997,Silvia Bovenschen,Frankfurt/Main,,,85
+1997,Barbara Frischmuth,Altaussee,,,86
+1998,Iso Camartin,Zürich,True,,71
+1998,Thomas Hettche,Frankfurt/Main,,,78
+1998,Iris Radisch,Hamburg,,,79
+1998,Hardy Ruoss,Richterswil,,,83
+1998,Silvia Bovenschen,Frankfurt/Main,,,85
+1998,Ulrike Längle,Bregenz,,,87
+1998,Robert Schindel,Berlin,,,88
+1999,Thomas Hettche,Frankfurt/Main,,,78
+1999,Iris Radisch,Hamburg,,,79
+1999,Hardy Ruoss,Richterswil,,,83
+1999,Silvia Bovenschen,Frankfurt/Main,,,85
+1999,Ulrike Längle,Bregenz,,,87
+1999,Robert Schindel,Berlin,True,,88
+1999,Dieter Bachmann,Arzo,,,89
+2000,Iris Radisch,Hamburg,,,79
+2000,Hardy Ruoss,Richterswil,,,83
+2000,Ulrike Längle,Bregenz,,,87
+2000,Robert Schindel,Wien,True,,88
+2000,Elisabeth Bronfen,Zürich,,,90
+2000,Denis Scheck,Köln,,,91
+2000,Burkhard Spinnen,Münster,,,92
+2001,Iris Radisch,Hamburg,,,79
+2001,Hardy Ruoss,Richterswil,,,83
+2001,Ulrike Längle,Bregenz,,,87
+2001,Robert Schindel,Wien,True,,88
+2001,Elisabeth Bronfen,Zürich,,,90
+2001,Denis Scheck,Köln,,,91
+2001,Burkhard Spinnen,Münster,,,92
+2002,Konstanze Fliedl,,,,67
+2002,Robert Schindel,Wien,True,,88
+2002,Denis Scheck,Köln,,,91
+2002,Burkhard Spinnen,Münster,,,92
+2002,Pia Reinacher,,,,93
+2002,Birgit Vanderbeke,,,,94
+2002,Thomas Widmer,,,,95
+2003,Iris Radisch,Hamburg,True,,79
+2003,Burkhard Spinnen,Münster,,,92
+2003,Josef Haslinger,,,,96
+2003,Friederike Kretzen,,,,97
+2003,Norbert Miller,Berlin,,,98
+2003,Ursula März,Berlin,,,99
+2003,Ilma Rakusa,Zürich,,,100
+2003,Thomas Steinfeld,,,,101
+2003,Daniela Strigl,Wien,,,102
+2004,Iris Radisch,Hamburg,True,,79
+2004,Burkhard Spinnen,Münster,,,92
+2004,Norbert Miller,Berlin,,,98
+2004,Ursula März,Berlin,,,99
+2004,Ilma Rakusa,Zürich,,,100
+2004,Daniela Strigl,Wien,,,102
+2004,Heinrich Detering,Kiel,,,103
+2004,Martin Ebel,Zürich,,,104
+2004,Klaus Nüchtern,Wien,,,105
+2005,Iris Radisch,Hamburg,True,,79
+2005,Burkhard Spinnen,Münster,,,92
+2005,Norbert Miller,Berlin,,,98
+2005,Ursula März,Berlin,,,99
+2005,Ilma Rakusa,Zürich,,,100
+2005,Daniela Strigl,Wien,,,102
+2005,Heinrich Detering,Kiel,,,103
+2005,Martin Ebel,Zürich,,,104
+2005,Klaus Nüchtern,Wien,,,105
+2006,Karl Corino,Tübingen,,,55
+2006,Iris Radisch,Hamburg,True,,79
+2006,Burkhard Spinnen,Münster,,,92
+2006,Ursula März,Berlin,,,99
+2006,Ilma Rakusa,Zürich,,,100
+2006,Daniela Strigl,Wien,,,102
+2006,Heinrich Detering,Kiel,,,103
+2006,Martin Ebel,Zürich,,,104
+2006,Klaus Nüchtern,Wien,,,105
+2007,Karl Corino,Tübingen,,,55
+2007,Iris Radisch,Hamburg,True,,79
+2007,Ursula März,Berlin,,,99
+2007,Ilma Rakusa,Zürich,,,100
+2007,Daniela Strigl,Wien,,,102
+2007,Martin Ebel,Zürich,,,104
+2007,Klaus Nüchtern,Wien,,,105
+2007,Andre Vladimir Heiz,Colombier,,,106
+2007,Ijoma Alexander Mangold,München,,,107
+2008,Burkhard Spinnen,Münster,True,,92
+2008,Ursula März,Berlin,,,99
+2008,Daniela Strigl,Wien,,,102
+2008,Klaus Nüchtern,Wien,,,105
+2008,Andre Vladimir Heiz,Biel,,,106
+2008,Ijoma Alexander Mangold,Berlin,,,107
+2008,Alain Claude Sulzer,Basel,,,108
+2009,Burkhard Spinnen,Münster,True,,92
+2009,Ijoma Alexander Mangold,Berlin,,,107
+2009,Alain Claude Sulzer,Basel,,,108
+2009,Meike Feßmann,Berlin,,,109
+2009,Karin Fleischanderl,,,,110
+2009,Paul Jandl,Wien,,,111
+2009,Hildegard Elisabeth Keller,Bloomington (USA),,,112
+2010,Burkhard Spinnen,Münster,True,,92
+2010,Alain Claude Sulzer,Basel,,,108
+2010,Meike Feßmann,Berlin,,,109
+2010,Karin Fleischanderl,,,,110
+2010,Paul Jandl,Wien,,,111
+2010,Hildegard Elisabeth Keller,Bloomington (USA),,,112
+2010,Hubert Winkels,Düsseldorf,,,113
+2010,Hubert Winkels,Düsseldorf,,,113
+2011,Burkhard Spinnen,Münster,True,,92
+2011,Daniela Strigl,Wien,,,102
+2011,Alain Claude Sulzer,Basel,,,108
+2011,Meike Feßmann,Berlin,,,109
+2011,Paul Jandl,Salzburg,,,111
+2011,Hubert Winkels,Düsseldorf,,,113
+2012,Burkhard Spinnen,Münster,True,,92
+2012,Daniela Strigl,Wien,,,102
+2012,Meike Feßmann,Berlin,,,109
+2012,Paul Jandl,Salzburg,,,111
+2012,Hildegard Elisabeth Keller,Bloomington (USA),,,112
+2012,Hubert Winkels,Köln,,,113
+2012,Corina Caduff,Zürich,,,114
+2013,Burkhard Spinnen,Münster,True,,92
+2013,Daniela Strigl,Wien,,,102
+2013,Meike Feßmann,Berlin,,,109
+2013,Paul Jandl,Salzburg,,,111
+2013,Hildegard Elisabeth Keller,Bloomington (USA),,,112
+2013,Hubert Winkels,Köln,,,113
+2013,Juri Steiner,Zürich,,,115
+2014,Daniela Strigl,Wien,,,102
+2014,Meike Feßmann,Berlin,,,109
+2014,Hildegard Elisabeth Keller,Bloomington (USA),,,112
+2014,Hubert Winkels,,True,,113
+2014,Stefan Gmünder,,,,116
+2014,Klaus Kastberger,Graz,,,117
+2014,Sandra Kegel,Frankfurt/Main,,,118
+2015,Meike Feßmann,Berlin,,,109
+2015,Hildegard Elisabeth Keller,Bloomington (USA),,,112
+2015,Hubert Winkels,Köln,True,,113
+2015,Juri Steiner,Zürich,,,115
+2015,Stefan Gmünder,,,,116
+2015,Klaus Kastberger,Graz,,,117
+2015,Sandra Kegel,Frankfurt/Main,,,118
+2016,Meike Feßmann,Berlin,,,109
+2016,Hildegard Elisabeth Keller,Bloomington (USA),,,112
+2016,Hubert Winkels,Köln,True,,113
+2016,Juri Steiner,Zürich,,,115
+2016,Stefan Gmünder,,,,116
+2016,Klaus Kastberger,Graz,,,117
+2016,Sandra Kegel,Frankfurt/Main,,,118
+2017,Meike Feßmann,Berlin,,,109
+2017,Hildegard Elisabeth Keller,Bloomington (USA),,,112
+2017,Hubert Winkels,Köln,True,,113
+2017,Stefan Gmünder,,,,116
+2017,Klaus Kastberger,Graz,,,117
+2017,Sandra Kegel,Frankfurt/Main,,,118
+2017,Michael Wiederstein,Zürich,,,119
+2018,Hildegard Elisabeth Keller,Bloomington (USA),,,112
+2018,Hubert Winkels,Köln,True,,113
+2018,Stefan Gmünder,,,,116
+2018,Klaus Kastberger,Graz,,,117
+2018,Michael Wiederstein,Zürich,,,119
+2018,Nora Gomringer,Bamberg,,,120
+2018,Insa Wilke,Frankfurt/Main,,,121
+2019,Hildegard Elisabeth Keller,Bloomington (USA),,,112
+2019,Hubert Winkels,Köln,True,,113
+2019,Stefan Gmünder,,,,116
+2019,Klaus Kastberger,Graz,,,117
+2019,Michael Wiederstein,Zürich,,,119
+2019,Nora Gomringer,Bamberg,,,120
+2019,Insa Wilke,Frankfurt/Main,,,121
+2020,Hubert Winkels,Köln,True,,113
+2020,Klaus Kastberger,Graz,,,117
+2020,Michael Wiederstein,Zürich,,,119
+2020,Nora Gomringer,Bamberg,,,120
+2020,Insa Wilke,Frankfurt/Main,,,121
+2020,Brigitte Schwens-Harrant,Wien,,,122
+2020,Philipp Tingler,Zürich,,,123
