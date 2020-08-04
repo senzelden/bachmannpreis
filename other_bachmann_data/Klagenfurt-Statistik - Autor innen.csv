@@ -1,9 +1,4 @@
-Name,Land,Wohnort,Geburtsort,F/M,Jahr,"Leseplatz
-#",Lesetag,"Lesezeitpunkt
-VP = vor einer Pause
-NP = nach einer Pause
-ET = Erste/r am Tag
-LT = Letzte/r am Tag",eingeladen von,Shortlist?,Preise,"Geburts-
+Name,Land,Wohnort,Geburtsort,F/M,Jahr,Leseplatz,Lesetag,Lesezeitpunkt,eingeladen von,Shortlist?,Preise,"Geburts-
 jahrgang","Alter zum Zeitpunkt
 der Teilnahme
 (±1, Geburtsmonat
