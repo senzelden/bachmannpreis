@@ -7,13 +7,13 @@ text_id,text_title,author_id,date_participation,invited_by,on_shortlist,font,rea
 5,Das Haus,5,1977-06-27,,False,,18,3,,3
 6,,6,1977-06-27,,False,,17,3,first_reading,3
 7,,7,1977-06-27,,False,,16,2,last_reading,3
-8,Einschüchterungsversuche,8,1977-06-27,,False,,,,,
+8,Einschüchterungsversuche,8,1977-06-27,,False,,15,2,,3
 9,,9,1977-06-27,,False,,14,2,,3
-10,Elise und Helene auf ihrer Reise nach Minsk,10,1977-06-27,,False,,,,,
+10,Elise und Helene auf ihrer Reise nach Minsk,10,1977-06-27,,False,,13,2,,3
 11,,11,1977-06-27,,False,,12,2,,3
 12,,12,1977-06-27,,False,,11,2,,3
 13,Erster Entwurf zum Beginn einer sehr langen Erzählung,13,1977-06-27,,False,,10,2,,3
-14,Frau,14,1977-06-27,,False,,,,,
+14,Frau,14,1977-06-27,,False,,9,2,,3
 15,,15,1977-06-27,,False,,8,1,last_reading,3
 16,Narrenfreiheit,16,1977-06-27,,False,,7,1,,3
 17,Heimweh nach Deutschland (Romanauszug),17,1977-06-27,,False,,6,1,,3
@@ -106,7 +106,7 @@ text_id,text_title,author_id,date_participation,invited_by,on_shortlist,font,rea
 104,,98,1981-06-27,,False,,3,4,,4
 105,,99,1981-06-27,,False,,2,4,,4
 106,Die Tessinerin,100,1981-06-27,,False,,1,4,first_reading,4
-107,Bericht aus dem Nachlass oder Imago,101,1981-06-27,,False,,,,,
+107,Bericht aus dem Nachlass oder Imago,101,1981-06-27,,False,,8,3,last_reading,4
 108,,102,1981-06-27,,False,,7,3,,4
 109,Verfolgung,103,1981-06-27,,False,,6,3,,4
 110,Die Strafe,104,1981-06-27,,False,,5,3,,4
@@ -143,7 +143,7 @@ text_id,text_title,author_id,date_participation,invited_by,on_shortlist,font,rea
 141,,133,1982-06-27,,False,,8,3,,4
 142,,134,1982-06-27,,False,,8,1,,4
 143,,135,1982-06-27,,False,,7,1,,4
-144,Hecke,31,1982-06-27,,False,,,,,
+144,Hecke,31,1982-06-27,,False,,,,,4
 145,,32,1982-06-27,,False,,4,1,,4
 146,,81,1982-06-27,,False,,3,2,,4
 147,,136,1982-06-27,,False,,2,4,,4
@@ -325,7 +325,7 @@ text_id,text_title,author_id,date_participation,invited_by,on_shortlist,font,rea
 323,Das Muschelessen,292,1990-06-27,,False,,16,3,,4
 324,Die Knieriesen,293,1990-06-27,,False,,4,1,,4
 325,Am Arm des Apothekers,294,1990-06-27,,False,,1,1,first_reading,4
-326,Und manche Nebelflecken löset kein Auge auf,295,1990-06-27,,False,,,,,
+326,Und manche Nebelflecken löset kein Auge auf,295,1990-06-27,,False,,,,,4
 327,Mein erster Neger (Romanauszug),296,1990-06-27,,False,,14,3,,4
 328,,297,1990-06-27,,False,,3,1,,4
 329,,298,1990-06-27,,False,,12,2,last_reading,4
@@ -334,7 +334,7 @@ text_id,text_title,author_id,date_participation,invited_by,on_shortlist,font,rea
 332,,301,1990-06-27,,False,,15,3,,4
 333,Eine Frau und ein Junge,302,1990-06-27,,False,,13,3,first_reading,4
 334,,226,1990-06-27,,False,,17,3,,4
-335,,303,1990-06-27,,False,,,,,
+335,,303,1990-06-27,,False,,,,,4
 336,Im offenen Meer,304,1990-06-27,,False,,18,3,last_reading,4
 337,Die Jacke,305,1990-06-27,,False,,2,1,,4
 338,Auf den breiten Nacken einer Sumpfschildkröte,306,1990-06-27,,False,,21,4,,4
@@ -388,7 +388,7 @@ text_id,text_title,author_id,date_participation,invited_by,on_shortlist,font,rea
 386,Die Verlockungen und das Lügen,349,1992-06-27,,False,,,,,
 387,,291,1992-06-27,,False,,,,,
 388,,350,1993-06-27,,False,,,,,4
-389,Der Hypochonder,351,1993-06-27,,False,,,,,
+389,Der Hypochonder,351,1993-06-27,,False,,,,,4
 390,,352,1993-06-27,,False,,,,,4
 391,,353,1993-06-27,,False,,,,,4
 392,,354,1993-06-27,,False,,,,,4
@@ -449,36 +449,36 @@ text_id,text_title,author_id,date_participation,invited_by,on_shortlist,font,rea
 447,Gold,401,1995-07-20,,False,,,,,
 448,Satz der Bäurin,402,1995-07-20,,False,,,1,,
 449,,231,1995-07-20,,False,,,,,
-450,Die Krautflut,403,1995-07-20,,False,,,Freitag,,
+450,Die Krautflut,403,1995-07-20,,False,,,"",,
 451,Mein Sehen,404,1995-07-20,,False,,,1,,
 452,,405,1995-07-20,,False,,,,,
 453,,406,1995-07-20,,False,,,,,
-454,,407,1996-06-30,,False,,1,1,first_reading,
-455,Domra,50,1996-06-30,,False,,18,3,last_reading,
-456,,408,1996-06-30,,False,,3,1,,
-457,"Wörter, die in der Asche schlafen",409,1996-06-30,,False,,19,4,first_reading,
-458,Der Beitritt,410,1996-06-30,,False,,15,3,,
-459,,411,1996-06-30,,False,,22,4,last_reading,
-460,,412,1996-06-30,,False,,7,2,first_reading,
-461,,413,1996-06-30,,False,,17,3,,
-462,,414,1996-06-30,,False,,13,3,first_reading,
-463,Bande,415,1996-06-30,,False,,12,2,last_reading,
-464,Ägypten oder Scholastikas Künste,416,1996-06-30,,False,,14,3,,
-465,,417,1996-06-30,,False,,16,3,,
-466,Dickicht Anpassung,418,1996-06-30,,False,,8,2,,
-467,Das Richtfest,419,1996-06-30,,False,,2,1,,
-468,Nach Centaurus A,157,1996-06-30,,False,,11,2,,
-469,,420,1996-06-30,,False,,20,4,,
-470,MOI,421,1996-06-30,,False,,5,1,,
-471,,422,1996-06-30,,False,,4,1,,
-472,,423,1996-06-30,,False,,9,2,,
-473,Der Fürst spricht,367,1996-06-30,,False,,21,4,,
-474,,424,1996-06-30,,False,,10,2,,
-475,,332,1996-06-30,,False,,6,1,last_reading,
+454,,407,1996-06-30,,False,,1,1,first_reading,4
+455,Domra,50,1996-06-30,,False,,18,3,last_reading,4
+456,,408,1996-06-30,,False,,3,1,,4
+457,"Wörter, die in der Asche schlafen",409,1996-06-30,,False,,19,4,first_reading,4
+458,Der Beitritt,410,1996-06-30,,False,,15,3,,4
+459,,411,1996-06-30,,False,,22,4,last_reading,4
+460,,412,1996-06-30,,False,,7,2,first_reading,4
+461,,413,1996-06-30,,False,,17,3,,4
+462,,414,1996-06-30,,False,,13,3,first_reading,4
+463,Bande,415,1996-06-30,,False,,12,2,last_reading,4
+464,Ägypten oder Scholastikas Künste,416,1996-06-30,,False,,14,3,,4
+465,,417,1996-06-30,,False,,16,3,,4
+466,Dickicht Anpassung,418,1996-06-30,,False,,8,2,,4
+467,Das Richtfest,419,1996-06-30,,False,,2,1,,4
+468,Nach Centaurus A,157,1996-06-30,,False,,11,2,,4
+469,,420,1996-06-30,,False,,20,4,,4
+470,MOI,421,1996-06-30,,False,,5,1,,4
+471,,422,1996-06-30,,False,,4,1,,4
+472,,423,1996-06-30,,False,,9,2,,4
+473,Der Fürst spricht,367,1996-06-30,,False,,21,4,,4
+474,,424,1996-06-30,,False,,10,2,,4
+475,,332,1996-06-30,,False,,6,1,last_reading,4
 476,,425,1997-06-29,,False,,16,3,last_reading,3
 477,,426,1997-06-29,,False,,9,2,,3
 478,Zerstörung des Unwissens,276,1997-06-29,,False,,1,1,first_reading,3
-479,,427,1997-06-29,,False,,,,,
+479,,427,1997-06-29,,False,,14,3,,3
 480,Eddy Duffy,428,1997-06-29,,False,,5,1,,3
 481,,259,1997-06-29,,False,,7,2,first_reading,3
 482,Wie man's nimmt,429,1997-06-29,,False,,3,1,,3
@@ -527,14 +527,14 @@ text_id,text_title,author_id,date_participation,invited_by,on_shortlist,font,rea
 525,Entgleisungen (Auszug),471,2000-07-20,,False,,15,3,,3
 526,Papiergewicht (Romanauszug),472,2000-07-20,,False,,14,3,,3
 527,Knoten (Romanauszug),473,2000-07-20,,False,,13,3,first_reading,3
-528,Wellness,394,2000-07-20,,False,,,,,
+528,Wellness,394,2000-07-20,,False,,12,2,,3
 529,Die Leidensblume von Nattersheim,474,2000-07-20,,False,,11,2,,3
 530,Diagnosestunde (Romanauszug),475,2000-07-20,,False,,10,2,,3
 531,El Examen,476,2000-07-20,,False,,9,2,,3
 532,Was hab ich in Meppen zu suchen,208,2000-07-20,,False,,8,2,,3
 533,Auszug aus einem langen Prosatext,477,2000-07-20,,False,,7,2,first_reading,3
 534,Karl Heinz Zizala hat Krebs (Romanauszug),478,2000-07-20,,False,,6,1,last_reading,3
-535,Der Glückliche,479,2000-07-20,,False,,,,,
+535,Der Glückliche,479,2000-07-20,,False,,5,1,,3
 536,Fell und Federn,480,2000-07-20,,False,,4,1,,3
 537,"Mir nichts, dir nichts",481,2000-07-20,,False,,3,1,,3
 538,Hochdruck im Flachland,482,2000-07-20,,False,,2,1,,3
@@ -550,7 +550,7 @@ text_id,text_title,author_id,date_participation,invited_by,on_shortlist,font,rea
 548,Hesters Traum,492,2001-07-10,88,False,,8,2,,3
 549,Muttersterben,453,2001-07-10,92,False,,7,2,first_reading,3
 550,Bloss ein Wintertag,493,2001-07-10,95,False,,6,1,last_reading,3
-551,Köln-Tokio,494,2001-07-10,90,False,,,,,
+551,Köln-Tokio,494,2001-07-10,90,False,,5,1,,3
 552,Lustig in die Welt hinein (Romanauszug),495,2001-07-10,94,False,,4,1,,3
 553,Das Märchen von der selbstgewählten Entführung,496,2001-07-10,91,False,,3,1,,3
 554,Mütter und Fahrzeuge,497,2001-07-10,88,False,,2,1,,3
@@ -563,11 +563,11 @@ text_id,text_title,author_id,date_participation,invited_by,on_shortlist,font,rea
 561,Auszug aus einer längeren Erzählung,503,2002-06-30,91,False,Times New Roman,11,2,,3
 562,Himmel & Hölle,504,2002-06-30,94,False,Times New Roman,10,2,,3
 563,Deauville,505,2002-06-30,95,False,,9,2,,3
-564,Auf. Stummen (Auszug),506,2002-06-30,88,False,,,,,
+564,Auf. Stummen (Auszug),506,2002-06-30,88,False,,8,2,,3
 565,Geschichte von Nichts,507,2002-06-30,91,False,Times New Roman,7,2,first_reading,3
 566,Auszeit,508,2002-06-30,88,False,Arial,6,1,last_reading,3
-567,Die toten Männer (Auszug aus einer Novelle),509,2002-06-30,95,False,,,,,
-568,Die Rechtfertigung des Alltäglichen oder drei Worthäuser in der Straße des jungen Er,510,2002-06-30,88,False,,,,,
+567,Die toten Männer (Auszug aus einer Novelle),509,2002-06-30,95,False,,5,1,,3
+568,Die Rechtfertigung des Alltäglichen oder drei Worthäuser in der Straße des jungen Er,510,2002-06-30,88,False,,4,1,,3
 569,Steinzeit,511,2002-06-30,95,False,Arial,3,1,,3
 570,Buchenhofstaffel,512,2002-06-30,93,False,Arial,2,1,,3
 571,Schnitt,513,2002-06-30,92,False,Arial,1,1,first_reading,3
@@ -649,7 +649,7 @@ text_id,text_title,author_id,date_participation,invited_by,on_shortlist,font,rea
 647,Die Geschichte meiner Einschätzung am Anfang des dritten Jahrtausends,584,2007-07-10,79,True,Times New Roman,14,2,last_reading,3
 648,Wunschbruder (Romanauszug),585,2007-07-10,55,True,Verdana,13,2,,3
 649,Der Briefschreiber (Romanauszug),586,2007-07-10,,False,Georgia,12,2,,3
-650,Böses Spiel,587,2007-07-10,102,False,,,,,
+650,Böses Spiel,587,2007-07-10,102,False,,11,2,,3
 651,Mein afrikanisches Jubeljahr,588,2007-07-10,,False,Garamond,10,2,,3
 652,Prolog eines neuen Romans,589,2007-07-10,104,False,Times New Roman,9,2,,3
 653,Die Furchtlosen,590,2007-07-10,99,True,Times New Roman,8,2,first_reading,3
@@ -659,7 +659,7 @@ text_id,text_title,author_id,date_participation,invited_by,on_shortlist,font,rea
 657,Freunde,594,2007-07-10,102,False,Bell MT,4,1,,3
 658,Abschied aus einer Umlaufbahn,595,2007-07-10,99,True,Garamond,3,1,,3
 659,was sie hier haben,596,2007-07-10,105,False,Garamond,2,1,,3
-660,Netzhaut,597,2007-07-10,104,False,,,,,
+660,Netzhaut,597,2007-07-10,104,False,,1,1,first_reading,3
 661,Muttervaterkind,598,2008-06-28,105,False,Times New Roman,14,2,last_reading,2
 662,Der Kaiser von China (Romanauszug),599,2008-06-28,99,True,Garamond,13,2,,2
 663,Pomona,600,2008-06-28,108,True,Times New Roman,12,2,,2
@@ -671,7 +671,7 @@ text_id,text_title,author_id,date_participation,invited_by,on_shortlist,font,rea
 669,Kein schöner Land (Romanauszug),606,2008-06-28,92,True,Courier,6,1,,2
 670,Der Tod ist ein Postmann mit Hut (Romanauszug),607,2008-06-28,108,False,Times New Roman,5,1,,2
 671,Super-8,608,2008-06-28,,False,Georgia,4,1,,2
-672,Die Waage,609,2008-06-28,102,False,,,,,
+672,Die Waage,609,2008-06-28,102,False,,3,1,,2
 673,Scherbenpark (Romanauszug),610,2008-06-28,107,True,Bookman Old Style,2,1,,2
 674,Livia,611,2008-06-28,107,False,Times New Roman,1,1,first_reading,2
 675,leben ist anders (Auszug),612,2009-06-28,92,True,Courier,14,3,last_reading,3
@@ -680,7 +680,7 @@ text_id,text_title,author_id,date_participation,invited_by,on_shortlist,font,rea
 678,Winterfisch,615,2009-06-28,112,True,Times New Roman,11,3,first_reading,3
 679,Auszeit,616,2009-06-28,108,True,Times New Roman,10,2,last_reading,3
 680,Bis dass der Tod,617,2009-06-28,92,True,Times New Roman,9,2,after_break,3
-681,Hinter der Wand,618,2009-06-28,111,False,,,,,
+681,Hinter der Wand,618,2009-06-28,111,False,,8,2,,3
 682,Auszug aus der Novelle „Der Fotoeffekt“,451,2009-06-28,109,True,Times New Roman,7,2,,3
 683,Die Welt der schönen Dinge,619,2009-06-28,110,False,Times New Roman,6,2,first_reading,3
 684,Wo viel Licht ist,620,2009-06-28,109,True,Times New Roman,5,1,last_reading,3
@@ -700,7 +700,7 @@ text_id,text_title,author_id,date_participation,invited_by,on_shortlist,font,rea
 698,Einladung an die Waghalsigen (Auszug),633,2010-06-27,111,True,Times New Roman,5,1,last_reading,3
 699,Bleib am Leben (Auszug aus „Land spielen“),634,2010-06-27,92,False,Times New Roman,4,1,after_break,3
 700,Ein versteckter Mensch (Romanauszug),635,2010-06-27,108,False,Book Antiqua,3,1,before_break,3
-701,Letzte Fischer,636,2010-06-27,109,False,,,,,
+701,Letzte Fischer,636,2010-06-27,109,False,,2,1,,3
 702,Katzenberge,637,2010-06-27,108,True,Times New Roman,1,1,first_reading,3
 703,9to5 Hardcore,638,2011-07-10,113,True,Garamond,14,3,last_reading,3
 704,Wespe,639,2011-07-10,112,False,Times New Roman,13,3,,3
@@ -724,7 +724,7 @@ text_id,text_title,author_id,date_participation,invited_by,on_shortlist,font,rea
 722,Willste abhauen,656,2012-07-08,113,True,Garamond,9,2,after_break,3
 723,Ich werde sagen: „HI“,657,2012-07-08,111,True,Arial,8,2,before_break,3
 724,Junge Hunde (Romanauszug),658,2012-07-08,113,False,Calibri,7,2,,3
-725,ohne Titel,659,2012-07-08,92,False,,,,,
+725,ohne Titel,659,2012-07-08,92,False,,6,2,first_reading,3
 726,Die Taten und Laute des Tages,660,2012-07-08,102,False,Times New Roman,5,1,last_reading,3
 727,Der Einsteiger,661,2012-07-08,109,True,Times New Roman,4,1,after_break,3
 728,Bettlägerige Geheimnisse,662,2012-07-08,109,False,Times New Roman,3,1,before_break,3
@@ -751,7 +751,7 @@ text_id,text_title,author_id,date_participation,invited_by,on_shortlist,font,rea
 749,Simeliberg (Romanauszug),683,2014-07-06,115,True,Helvetica,9,2,after_break,3
 750,Vor der Zunahme der Zeichen (Romanauszug),684,2014-07-06,109,True,Times New Roman,8,2,before_break,3
 751,Maia,685,2014-07-06,,False,Calibri,7,2,,3
-752,Ichthys,686,2014-07-06,92,False,,,,,
+752,Ichthys,686,2014-07-06,92,False,,6,2,first_reading,3
 753,Unter Platanen,517,2014-07-06,102,False,Cambria,5,1,last_reading,3
 754,Ujjayi (Romanauszug),687,2014-07-06,113,True,Arial,4,1,after_break,3
 755,Steuerstrafakte,688,2014-07-06,115,False,Times New Roman,3,1,before_break,3
@@ -768,7 +768,7 @@ text_id,text_title,author_id,date_participation,invited_by,on_shortlist,font,rea
 766,RTL-Reptil,698,2015-07-05,116,False,Calibri,6,2,first_reading,3
 767,Das Bein,699,2015-07-05,117,Shortlist ,Times New Roman,5,1,last_reading,3
 768,"BROT, BROT, BROT",700,2015-07-05,109,False,Times New Roman,4,1,after_break,3
-769,Hierbleiben,701,2015-07-05,118,False,,,,,
+769,Hierbleiben,701,2015-07-05,118,False,,3,1,,3
 770,Recherche,702,2015-07-05,118,True,Cambria,2,1,,3
 771,Es ist weit bis Marseille,703,2015-07-05,109,False,Computer Modern Typewriter,1,1,first_reading,3
 772,Los Alamos ist winzig,588,2016-07-30,115,True,Times New Roman,14,3,last_reading,3
@@ -780,7 +780,7 @@ text_id,text_title,author_id,date_participation,invited_by,on_shortlist,font,rea
 778,Binde zwei Vögel zusammen,709,2016-07-30,109,True,Times New Roman,8,2,before_break,3
 779,Araber und Schakale,710,2016-07-30,109,True,Cambria,7,2,,3
 780,Walter Nowak bleibt liegen,711,2016-07-30,113,True,Courier,6,2,first_reading,3
-781,Ein geheimer Akkord,712,2016-07-30,116,False,,,,,
+781,Ein geheimer Akkord,712,2016-07-30,116,False,,5,1,last_reading,3
 782,MEZZANIN,713,2016-07-30,116,False,Garamond,4,1,after_break,3
 783,Als nach Milošević das Wasser kam,714,2016-07-30,117,True,Calibri,3,1,before_break,3
 784,Das alte Lied von Señor Magma,715,2016-07-30,112,False,Courier,2,1,,3
@@ -789,10 +789,10 @@ text_id,text_title,author_id,date_participation,invited_by,on_shortlist,font,rea
 787,Europas längster Sommer,718,2017-07-09,109,False,Arial,13,3,,3
 788,Loses Mappe,719,2017-07-09,112,True,Arnhem,12,3,,3
 789,Hysteria,720,2017-07-09,119,True,Times New Roman,11,3,first_reading,3
-790,In der Steppe,721,2017-07-09,109,False,,,,,
+790,In der Steppe,721,2017-07-09,109,False,,10,2,last_reading,3
 791,Cleanster,722,2017-07-09,113,True,Garamond,9,2,after_break,3
 792,Memorabilia,723,2017-07-09,117,False,Helvetica,8,2,before_break,3
-793,Die Mieter,724,2017-07-09,117,False,,,,,
+793,Die Mieter,724,2017-07-09,117,False,,7,2,,3
 794,mein lieblingstier heißt winter,725,2017-07-09,118,True,Helvetica,6,2,first_reading,3
 795,Der Name,482,2017-07-09,112,False,Times New Roman,5,1,last_reading,3
 796,Fifty Shades of Gray,726,2017-07-09,113,False,Garamond,4,1,after_break,3
@@ -807,7 +807,7 @@ text_id,text_title,author_id,date_participation,invited_by,on_shortlist,font,rea
 805,SERPENTINEN,735,2018-07-08,117,True,Cambria,9,2,after_break,3
 806,Frösche im Meer,736,2018-07-08,116,True,Times New Roman,8,2,before_break,3
 807,Carter,737,2018-07-08,119,True,Liberation Serif,7,2,,3
-808,"Der Nächste, bitte!",738,2018-07-08,120,False,,,,,
+808,"Der Nächste, bitte!",738,2018-07-08,120,False,,6,2,first_reading,3
 809,Flexen in Miami,739,2018-07-08,121,True,Times New Roman,5,1,last_reading,3
 810,Warten auf Ava,740,2018-07-08,112,True,Times New Roman,4,1,after_break,3
 811,Lumumbaland,741,2018-07-08,113,False,Cambria,3,1,before_break,3
@@ -820,8 +820,8 @@ text_id,text_title,author_id,date_participation,invited_by,on_shortlist,font,rea
 818,Von schlechten Eltern,748,2019-06-30,119,False,Calibri,10,2,after_break,3
 819,Der Fluch,749,2019-06-30,113,True,Times New Roman,9,2,before_break,3
 820,Der Schrank,750,2019-06-30,116,True,Georgia,8,2,,3
-821,Vierundsiebzig,751,2019-06-30,121,True,Times New Roman,7,2,first_reading,3
-822,Kenn ich nicht,752,2019-06-30,112,False,,,,,
+821,Vierundsiebzig,751,2019-06-30,121,True,Times New Roman,7,2,"",3
+822,Kenn ich nicht,752,2019-06-30,112,False,,6,2,first_reading,3
 823,Das kann ich,753,2019-06-30,112,False,Courier,5,1,last_reading,3
 824,Unweit vom Schakaltal,754,2019-06-30,117,True,Times New Roman,4,1,after_break,3
 825,Auszug aus dem Roman Der Wod,755,2019-06-30,120,False,Century Schoolbook,3,1,before_break,3
