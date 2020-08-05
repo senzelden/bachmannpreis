@@ -1,0 +1,843 @@
+text_id,author_id,text_title,date_participation,invited_by,on_shortlist,font,reading_order,day_reading,reading_context,total_days_reading
+0,0,,1977-06-27,,False,,23,3,last_reading,3
+1,1,,1977-06-27,,False,,22,3,,3
+2,2,,1977-06-27,,False,,21,3,,3
+3,3,Sodom (Fragment aus einem Roman),1977-06-27,,False,,20,3,,3
+4,4,,1977-06-27,,False,,19,3,,3
+5,5,Das Haus,1977-06-27,,False,,18,3,,3
+6,6,,1977-06-27,,False,,17,3,first_reading,3
+7,7,,1977-06-27,,False,,16,2,last_reading,3
+8,8,Einschüchterungsversuche,1977-06-27,,False,,15,2,,3
+9,9,,1977-06-27,,False,,14,2,,3
+10,10,Elise und Helene auf ihrer Reise nach Minsk,1977-06-27,,False,,13,2,,3
+11,11,,1977-06-27,,False,,12,2,,3
+12,12,,1977-06-27,,False,,11,2,,3
+13,13,Erster Entwurf zum Beginn einer sehr langen Erzählung,1977-06-27,,False,,10,2,,3
+14,14,Frau,1977-06-27,,False,,9,2,,3
+15,15,,1977-06-27,,False,,8,1,last_reading,3
+16,16,Narrenfreiheit,1977-06-27,,False,,7,1,,3
+17,17,Heimweh nach Deutschland (Romanauszug),1977-06-27,,False,,6,1,,3
+18,18,,1977-06-27,,False,,5,1,,3
+19,19,Der schnurgerade Kanal (Ausschnitte aus dem Roman),1977-06-27,,False,,4,1,,3
+20,20,,1977-06-27,,False,,3,1,,3
+21,21,,1977-06-27,,False,,2,1,,3
+22,22,November,1977-06-27,,False,,1,1,first_reading,3
+23,23,,1978-06-27,,False,,,,,
+24,24,Mein Körper warnt mich vor jedem Wort,1978-06-27,,False,,,,,
+25,25,Die Erziehung zum Chorgesang (Romanauszug),1978-06-27,,False,,,,,
+26,26,Kleinstadtidylle,1978-06-27,,False,,,,,
+27,27,,1978-06-27,,False,,,,,
+28,28,,1978-06-27,,False,,,,,
+29,29,kein runter kein fern,1978-06-27,,False,,,,,
+30,30,Über Dittersdorf fliegen,1978-06-27,,False,,,,,
+31,31,"Der Weg, der Fermer nach Seebüll führte (Romanauszug)",1978-06-27,,False,,,,,
+32,32,,1978-06-27,,False,,,,,
+33,33,,1978-06-27,,False,,,,,
+34,34,Aufzeichnungen über eine Reise zu Felix,1978-06-27,,False,,,,,
+35,35,Zürich oder Immer wieder ist Atlantis in Gefahr,1978-06-27,,False,,,,,
+36,36,"Zucker, die Lähmung der Moleküle",1978-06-27,,False,,,,,
+37,37,Verletzten Auges,1978-06-27,,False,,,,,
+38,38,,1978-06-27,,False,,,,,
+39,39,,1978-06-27,,False,,,,,
+40,40,Familienbilder,1978-06-27,,False,,,,,
+41,41,,1978-06-27,,False,,,,,
+42,42,Bekanntschaften,1978-06-27,,False,,,,,
+43,43,Die verleugnete Wirklichkeit,1978-06-27,,False,,,,,
+44,44,,1978-06-27,,False,,,,,
+45,45,,1978-06-27,,False,,,,,
+46,46,Notfallmäßige Selbsteinlieferung in Göschenen,1978-06-27,,False,,,,,
+47,47,Liebe,1978-06-27,,False,,,,,
+48,48,Apocalypso,1979-06-27,,False,,,,,
+49,49,,1979-06-27,,False,,,,,
+50,50,Bilder aus der Arbeit: Der Ackermann aus Kärnten,1979-06-27,,False,,,,,
+51,51,,1979-06-27,,False,,,,,
+52,52,,1979-06-27,,False,,,,,
+53,53,,1979-06-27,,False,,,,,
+54,54,,1979-06-27,,False,,,,,
+55,55,,1979-06-27,,False,,,,,
+56,15,Und der Sultan von Oman,1979-06-27,,False,,,,,
+57,56,Nichts oder die leisen Kommandos,1979-06-27,,False,,,,,
+58,57,,1979-06-27,,False,,,,,
+59,58,Der vorsichtige Zusammenbruch,1979-06-27,,False,,,,,
+60,59,Ein Meister des Innehaltens,1979-06-27,,False,,,,,
+61,60,,1979-06-27,,False,,,,,
+62,61,Der Kämpfer,1979-06-27,,False,,,,,
+63,62,,1979-06-27,,False,,,,,
+64,63,Die Fistelstimme,1979-06-27,,False,,,,,
+65,64,,1979-06-27,,False,,,,,
+66,65,,1979-06-27,,False,,,,,
+67,66,,1979-06-27,,False,,,,,
+68,67,,1979-06-27,,False,,,,,
+69,68,"Franz, der arbeiter von der traurigen materie oder Abenteuer in einer klassengesellschaft",1979-06-27,,False,,,,,
+70,69,Janz jewöhnlicher Roggen,1979-06-27,,False,,,,,
+71,70,,1979-06-27,,False,,,,,
+72,71,Der Fährmann beklagt den Niedergang des Schiffbaues,1979-06-27,,False,,,,,
+73,72,Die Karbidfabrik,1979-06-27,,False,,,,,
+74,73,De beliebteste Familiengeschichte,1979-06-27,,False,,,,,
+75,16,Asystolie,1980-06-27,,False,,,,,
+76,74,,1980-06-27,,False,,,,,
+77,75,Im Windkanal der Geschichte,1980-06-27,,False,,,,,
+78,28,Vermutungen über das Glück,1980-06-27,,False,,,,,
+79,76,Brief an einen sterbenden Freund,1980-06-27,,False,,,,,
+80,77,Fasnacht,1980-06-27,,False,,,,,
+81,78,,1980-06-27,,False,,,,,
+82,79,Kopenhagen 1801 (Kapitel aus Die Entdeckung der Langsamkeit),1980-06-27,,False,,,,,
+83,80,Der Entwurf,1980-06-27,,False,,,,,
+84,81,Der Beistrich,1980-06-27,,False,,,,,
+85,82,Die gemusterte Nacht,1980-06-27,,False,,,,,
+86,83,An den Rand der Erschöpfung weiter,1980-06-27,,False,,,,,
+87,37,Sätze gegen den Satz vom ausgeschlossenen Dritten,1980-06-27,,False,,,,,
+88,84,Das Haus der Tante,1980-06-27,,False,,,,,
+89,85,,1980-06-27,,False,,,,,
+90,38,Bewegung unter der Oberfläche,1980-06-27,,False,,,,,
+91,86,,1980-06-27,,False,,,,,
+92,87,Gib jetzt das Blendwerkzeug zurück!,1980-06-27,,False,,,,,
+93,40,Arztgeheimnis!,1980-06-27,,False,,,,,
+94,88,,1980-06-27,,False,,,,,
+95,89,,1980-06-27,,False,,,,,
+96,90,,1980-06-27,,False,,,,,
+97,91,,1980-06-27,,False,,,,,
+98,92,,1980-06-27,,False,,,,,
+99,93,,1980-06-27,,False,,,,,
+100,94,Langsame Erwärmung,1980-06-27,,False,,,,,
+101,95,,1980-06-27,,False,,,,,
+102,96,,1980-06-27,,False,,,,,
+103,97,Alex,1981-06-27,,False,,4,4,last_reading,4
+104,98,,1981-06-27,,False,,3,4,,4
+105,99,,1981-06-27,,False,,2,4,,4
+106,100,Die Tessinerin,1981-06-27,,False,,1,4,first_reading,4
+107,101,Bericht aus dem Nachlass oder Imago,1981-06-27,,False,,8,3,last_reading,4
+108,102,,1981-06-27,,False,,7,3,,4
+109,103,Verfolgung,1981-06-27,,False,,6,3,,4
+110,104,Die Strafe,1981-06-27,,False,,5,3,,4
+111,105,Die Walsche (Romanauszug),1981-06-27,,False,,4,3,,4
+112,106,Paula (Aus einem längeren Prosawerk),1981-06-27,,False,,3,3,,4
+113,107,,1981-06-27,,False,,2,3,,4
+114,108,Entzweit,1981-06-27,,False,,1,3,first_reading,4
+115,109,Karneval (Romanauszug),1981-06-27,,False,,8,2,last_reading,4
+116,110,,1981-06-27,,False,,7,2,,4
+117,111,,1981-06-27,,False,,6,2,,4
+118,112,Schürfungen (Auszug aus einem längeren Prosawerk),1981-06-27,,False,,5,2,,4
+119,113,Ruth (Romanauszug),1981-06-27,,False,,4,2,,4
+120,114,,1981-06-27,,False,,3,2,,4
+121,115,Spaziergang,1981-06-27,,False,,2,2,,4
+122,116,,1981-06-27,,False,,1,2,first_reading,4
+123,117,Zwei wahre Geschichten (Reykjavik und Besuch in Russikon),1981-06-27,,False,,8,1,last_reading,4
+124,118,Gesicherte Spiele (Aus einer Erzählung),1981-06-27,,False,,7,1,,4
+125,119,Nada (Romanauszug),1981-06-27,,False,,6,1,,4
+126,120,,1981-06-27,,False,,5,1,,4
+127,121,,1981-06-27,,False,,4,1,,4
+128,122,,1981-06-27,,False,,3,1,,4
+129,123,Niemands Land (Teilentwurf einer längeren Prosaarbeit),1981-06-27,,False,,2,1,,4
+130,124,,1981-06-27,,False,,1,1,first_reading,4
+131,49,,1982-06-27,,False,,5,3,,4
+132,125,,1982-06-27,,False,,3,1,,4
+133,126,,1982-06-27,,False,,4,3,,4
+134,127,,1982-06-27,,False,,5,2,,4
+135,128,Blaues Blümelein,1982-06-27,,False,,6,3,,4
+136,129,,1982-06-27,,False,,2,1,,4
+137,130,Geräusche,1982-06-27,,False,,3,3,,4
+138,26,,1982-06-27,,False,,3,4,,4
+139,131,,1982-06-27,,False,,2,3,,4
+140,132,,1982-06-27,,False,,5,1,,4
+141,133,,1982-06-27,,False,,8,3,,4
+142,134,,1982-06-27,,False,,8,1,,4
+143,135,,1982-06-27,,False,,7,1,,4
+144,31,Hecke,1982-06-27,,False,,,,,4
+145,32,,1982-06-27,,False,,4,1,,4
+146,81,,1982-06-27,,False,,3,2,,4
+147,136,,1982-06-27,,False,,2,4,,4
+148,137,Die Nachricht im Staub,1982-06-27,,False,,2,2,,4
+149,138,Flaschenpost,1982-06-27,,False,,6,2,last_reading,4
+150,139,,1982-06-27,,False,,1,2,first_reading,4
+151,140,,1982-06-27,,False,,1,1,first_reading,4
+152,141,Die Leidinger Hochzeit,1982-06-27,,False,,1,4,first_reading,4
+153,142,,1982-06-27,,False,,9,3,last_reading,4
+154,143,Die letzten Tage des Theodor Löwenstein,1982-06-27,,False,,9,1,last_reading,4
+155,144,Josef stirbt,1982-06-27,,False,,1,3,first_reading,4
+156,145,,1982-06-27,,False,,6,1,,4
+157,146,Rondo,1982-06-27,,False,,4,4,last_reading,4
+158,147,,1982-06-27,,False,,4,2,,4
+159,148,,1983-06-27,,False,,4,4,last_reading,4
+160,149,Auf der Probebühne der Leidenschaft,1983-06-27,,False,,3,4,,4
+161,150,Das Buch des Lebens (Auszug),1983-06-27,,False,,2,4,,4
+162,151,Die Papageien von New York (Auszug aus einem längeren Text),1983-06-27,,False,,1,4,first_reading,4
+163,152,"Viola, Violetta, schwarze Braut",1983-06-27,,False,,8,3,last_reading,4
+164,153,Verführung (Auszug aus einer größeren Prosaarbeit),1983-06-27,,False,,7,3,,4
+165,154,,1983-06-27,,False,,6,3,,4
+166,155,,1983-06-27,,False,,5,3,,4
+167,156,Nur die Liebe (Buchauszug),1983-06-27,,False,,4,3,,4
+168,157,,1983-06-27,,False,,3,3,,4
+169,158,Passagen,1983-06-27,,False,,2,3,,4
+170,159,Subito,1983-06-27,,False,,1,3,first_reading,4
+171,160,Rabenkind,1983-06-27,,False,,8,2,last_reading,4
+172,71,,1983-06-27,,False,,7,2,,4
+173,161,Schwellengang (Romanauszug),1983-06-27,,False,,6,2,,4
+174,162,,1983-06-27,,False,,5,2,,4
+175,163,,1983-06-27,,False,,4,2,,4
+176,164,Die Umarmung,1983-06-27,,False,,3,2,,4
+177,165,,1983-06-27,,False,,2,2,,4
+178,166,,1983-06-27,,False,,1,2,first_reading,4
+179,167,,1983-06-27,,False,,8,1,last_reading,4
+180,168,Dunst,1983-06-27,,False,,7,1,,4
+181,17,,1983-06-27,,False,,6,1,,4
+182,169,Pavane für eine verstorbene Infantin (Romanauszug),1983-06-27,,False,,5,1,,4
+183,170,,1983-06-27,,False,,,,,
+184,171,,1983-06-27,,False,,3,1,,4
+185,460,Die wilden Kinder (Romanauszug),1983-06-27,,False,,,,,
+186,172,Völkerschlachtdenkmal (Romanauszug),1983-06-27,,False,,1,1,first_reading,4
+187,173,,1984-06-27,,False,,,,,
+188,174,Lichtwechsel,1984-06-27,,False,,,,,
+189,175,,1984-06-27,,False,,,,,
+190,176,,1984-06-27,,False,,,,,
+191,177,Der Schwarzwursthammer,1984-06-27,,False,,,,,
+192,178,Montags,1984-06-27,,False,,,,,
+193,179,Zwischenkrieg oder Wo liegt Vietnam,1984-06-27,,False,,,,,
+194,5,Ansprache an Schwester Benedi,1984-06-27,,False,,,,,
+195,180,Din-A,1984-06-27,,False,,,,,
+196,181,Stunde der Liebe,1984-06-27,,False,,,,,
+197,182,Anwesenheit des Vaters,1984-06-27,,False,,,,,
+198,183,,1984-06-27,,False,,,,,
+199,30,Das Modell und sein Maler,1984-06-27,,False,,,,,
+200,33,Das Naturtheater,1984-06-27,,False,,,,,
+201,184,Lichtempfindlich,1984-06-27,,False,,,,,
+202,185,,1984-06-27,,False,,,,,
+203,186,,1984-06-27,,False,,,,,
+204,187,,1984-06-27,,False,,,,,
+205,188,,1984-06-27,,False,,,,,
+206,189,"Die Ratten, die Schweine, der Hund",1984-06-27,,False,,,,,
+207,190,Burgenland,1984-06-27,,False,,,,,
+208,191,Der Tod des Kleinhäuslers Ignaz Hajek,1984-06-27,,False,,,,,
+209,192,,1984-06-27,,False,,,,,
+210,193,,1984-06-27,,False,,,,,
+211,194,,1984-06-27,,False,,,,,
+212,195,Der Aufklärungsmacher,1984-06-27,,False,,,,,
+213,196,Das postbarocke Temperament in seinem Barceloneser Element,1985-06-27,,False,,12,2,,3
+214,197,,1985-06-27,,False,,11,2,,3
+215,198,,1985-06-27,,False,,4,1,,3
+216,199,,1985-06-27,,False,,18,3,,3
+217,200,"Kaiser, wieviel Schritte darf ich tun?",1985-06-27,,False,,1,1,first_reading,3
+218,201,,1985-06-27,,False,,10,2,,3
+219,202,,1985-06-27,,False,,9,2,first_reading,3
+220,2,,1985-06-27,,False,,15,2,,3
+221,203,,1985-06-27,,False,,14,2,,3
+222,204,Mit anderen Augen,1985-06-27,,False,,8,1,last_reading,3
+223,205,Gamg um den See,1985-06-27,,False,,,,,
+224,206,In der Allee. Das Niedersachsenrennen.,1985-06-27,,False,,13,2,,3
+225,207,Nahaufnahme,1985-06-27,,False,,5,1,,3
+226,208,"Orlak, der Sänger",1985-06-27,,False,,24,3,last_reading,3
+227,64,,1985-06-27,,False,,16,2,last_reading,3
+228,209,,1985-06-27,,False,,7,1,,3
+229,210,,1985-06-27,,False,,2,1,,3
+230,211,,1985-06-27,,False,,23,3,,3
+231,212,Cosimo und Hamlet,1985-06-27,,False,,22,3,,3
+232,213,Die neue Scheherazade,1985-06-27,,False,,20,3,,3
+233,214,,1985-06-27,,False,,19,3,,3
+234,215,,1985-06-27,,False,,,,,
+235,46,Die Wasserfallfinsternis von Badgastein,1985-06-27,,False,,21,3,,3
+236,216,Simeon,1985-06-27,,False,,17,3,first_reading,3
+237,130,,1986-06-27,,False,,,,,
+238,131,Das Hülsenkeim-Projekt,1986-06-27,,False,,,,,
+239,217,Ums Leben,1986-06-27,,False,,,,,
+240,218,Die Berechnungen des Archimedes,1986-06-27,,False,,,,,
+241,77,Das Maniefest,1986-06-27,,False,,,,,
+242,219,Erdschwere,1986-06-27,,False,,,,,
+243,220,,1986-06-27,,False,,,,,
+244,221,'Sehr geehrter Herr Elstner' und 'Unter sich',1986-06-27,,False,,,,,
+245,222,,1986-06-27,,False,,,,,
+246,223,Kaspar Mauser - Die Feigheit vorm Freund,1986-06-27,,False,,,,,
+247,224,,1986-06-27,,False,,,,,
+248,137,Almington's Tunnel,1986-06-27,,False,,,,,
+249,225,,1986-06-27,,False,,,,,
+250,226,,1986-06-27,,False,,,,,
+251,227,,1986-06-27,,False,,,,,
+252,228,'Sieger' und 'Da ist was da unten',1986-06-27,,False,,,,,
+253,229,Rosen-Zeit,1986-06-27,,False,,,,,
+254,230,Jans Lächeln,1986-06-27,,False,,,,,
+255,158,Sieben Personen,1986-06-27,,False,,,,,
+256,231,,1986-06-27,,False,,,,,
+257,232,,1986-06-27,,False,,,,,
+258,233,,1986-06-27,,False,,,,,
+259,195,Das Affenhaus,1986-06-27,,False,,,,,
+260,234,Zwei Texte,1986-06-27,,False,,,,,
+261,235,Im Diplomatischen Dienst,1987-06-27,,False,,9,2,,3
+262,236,,1987-06-27,,False,,18,3,,3
+263,51,,1987-06-27,,False,,1,1,first_reading,3
+264,237,,1987-06-27,,False,,6,1,,3
+265,238,,1987-06-27,,False,,4,1,,3
+266,239,"Ohne Behinderung, ohne falsche Bewegung",1987-06-27,,False,,8,2,first_reading,3
+267,240,,1987-06-27,,False,,5,1,,3
+268,241,Thrill,1987-06-27,,False,,7,1,last_reading,3
+269,242,Hast du die Nacht genutzt?,1987-06-27,,False,,13,2,,3
+270,243,"'Vier Texte': 'Das Notschlachtmesser in meiner Brust. Erinnerungen an Wilhelm Pieck', 'Tausend Meter Herzsprung. Ende ohne Abschied', 'Nordsees Odysseus' und 'Die Notwendigkeit'",1987-06-27,,False,,15,3,first_reading,3
+271,244,,1987-06-27,,False,,3,1,,3
+272,245,Martin Graf,1987-06-27,,False,,12,2,,3
+273,246,Eingegangen,1987-06-27,,False,,11,2,,3
+274,247,,1987-06-27,,False,,10,2,,3
+275,248,,1987-06-27,,False,,14,2,last_reading,3
+276,249,"Cherubim II: Wenzel Heindl, Das Wernerl",1987-06-27,,False,,19,3,last_reading,3
+277,250,Das Denken denken,1987-06-27,,False,,2,1,,3
+278,251,Dösend vielleicht,1987-06-27,,False,,17,3,,3
+279,252,,1987-06-27,,False,,,,,
+280,253,Enger Ort,1988-06-27,,False,,16,3,first_reading,3
+281,254,,1988-06-27,,False,,,,,
+282,255,,1988-06-27,,False,,20,3,,3
+283,256,An eine Dame,1988-06-27,,False,,8,1,last_reading,3
+284,257,,1988-06-27,,False,,1,1,first_reading,3
+285,258,An eine Dame,1988-06-27,,False,,18,3,,3
+286,221,Am Telefon,1988-06-27,,False,,4,1,,3
+287,259,,1988-06-27,,False,,21,3,,3
+288,260,,1988-06-27,,False,,14,2,,3
+289,261,,1988-06-27,,False,,11,2,,3
+290,262,Der Dienst,1988-06-27,,False,,2,1,,3
+291,138,Alte Männer,1988-06-27,,False,,13,2,,3
+292,263,,1988-06-27,,False,,12,2,,3
+293,264,,1988-06-27,,False,,,,,
+294,265,,1988-06-27,,False,,17,3,,3
+295,266,geschichte,1988-06-27,,False,,5,1,,3
+296,267,Die Flucht der Kanarienvögel,1988-06-27,,False,,22,3,last_reading,3
+297,268,motte motte motte,1988-06-27,,False,,10,2,,3
+298,269,,1988-06-27,,False,,6,1,,3
+299,270,,1988-06-27,,False,,7,1,,3
+300,271,,1988-06-27,,False,,9,2,first_reading,3
+301,272,Eine Freundin ganz besonderer Art,1988-06-27,,False,,15,2,last_reading,3
+302,273,Einmal lebt ich,1989-06-27,,False,,2,1,,3
+303,274,Die Rückverwandlung,1989-06-27,,False,,18,3,,3
+304,275,,1989-06-27,,False,,,,,3
+305,276,,1989-06-27,,False,,11,2,,3
+306,277,Cahlenberg (Romanauszug),1989-06-27,,False,,4,1,,3
+307,166,,1989-06-27,,False,,17,3,,3
+308,278,Der Tote Vogel,1989-06-27,,False,,1,1,first_reading,3
+309,279,drei fragen,1989-06-27,,False,,3,1,,3
+310,119,,1989-06-27,,False,,16,3,,3
+311,80,Im Schläfengebiet,1989-06-27,,False,,12,2,,3
+312,280,,1989-06-27,,False,,9,2,,3
+313,281,Keiner stirbt!,1989-06-27,,False,,13,2,last_reading,3
+314,282,,1989-06-27,,False,,5,1,,3
+315,283,,1989-06-27,,False,,10,2,,3
+316,284,Eine Übertragung,1989-06-27,,False,,15,3,,3
+317,285,Ludwig muß sterben,1989-06-27,,False,,8,2,,3
+318,286,Ulriche und Kühleborn,1989-06-27,,False,,14,3,first_reading,3
+319,287,Roter Cox,1989-06-27,,False,,6,1,last_reading,3
+320,288,Dschungel. Ein Prolog,1989-06-27,,False,,19,3,,3
+321,40,,1989-06-27,,False,,7,2,first_reading,3
+322,289,,1989-06-27,,False,,20,3,last_reading,3
+323,290,Das Muschelessen,1990-06-27,,False,,16,3,,4
+324,291,Die Knieriesen,1990-06-27,,False,,4,1,,4
+325,292,Am Arm des Apothekers,1990-06-27,,False,,1,1,first_reading,4
+326,293,Und manche Nebelflecken löset kein Auge auf,1990-06-27,,False,,,,,4
+327,294,Mein erster Neger (Romanauszug),1990-06-27,,False,,14,3,,4
+328,295,,1990-06-27,,False,,3,1,,4
+329,296,,1990-06-27,,False,,12,2,last_reading,4
+330,297,Und am Ende mit einem A,1990-06-27,,False,,22,4,last_reading,4
+331,298,,1990-06-27,,False,,11,2,,4
+332,299,,1990-06-27,,False,,15,3,,4
+333,300,Eine Frau und ein Junge,1990-06-27,,False,,13,3,first_reading,4
+334,224,,1990-06-27,,False,,17,3,,4
+335,301,,1990-06-27,,False,,,,,4
+336,302,Im offenen Meer,1990-06-27,,False,,18,3,last_reading,4
+337,303,Die Jacke,1990-06-27,,False,,2,1,,4
+338,304,Auf den breiten Nacken einer Sumpfschildkröte,1990-06-27,,False,,21,4,,4
+339,305,,1990-06-27,,False,,6,1,last_reading,4
+340,306,Baden-Dubel,1990-06-27,,False,,19,4,first_reading,4
+341,307,Rakontimer,1990-06-27,,False,,7,2,first_reading,4
+342,308,,1990-06-27,,False,,20,4,,4
+343,309,,1990-06-27,,False,,9,2,,4
+344,310,Das Gesetz des Auges,1990-06-27,,False,,10,2,,4
+345,311,Moppel Schappik,1991-06-27,,False,,,,,
+346,312,,1991-06-27,,False,,,,,
+347,313,,1991-06-27,,False,,,,,
+348,314,Das Muttermal,1991-06-27,,False,,,,,
+349,315,"Ein Webfehler nur, Sie verstehen",1991-06-27,,False,,,,,
+350,316,Das Leben ist eine Karawanserei,1991-06-27,,False,,,,,
+351,317,,1991-06-27,,False,,,,,
+352,318,Der Himmel ist ein Ochsenauge,1991-06-27,,False,,,,,
+353,319,,1991-06-27,,False,,,,,
+354,320,VaterMörder,1991-06-27,,False,,,,,
+355,321,,1991-06-27,,False,,,,,
+356,322,Neunzehnhundertdreißig,1991-06-27,,False,,,,,
+357,323,,1991-06-27,,False,,,,,
+358,324,,1991-06-27,,False,,,,,
+359,325,,1991-06-27,,False,,,,,
+360,306,Café Wintergarten,1991-06-27,,False,,,,,
+361,326,,1991-06-27,,False,,,,,
+362,327,,1991-06-27,,False,,,,,
+363,328,Flughunde,1991-06-27,,False,,,,,
+364,251,Babyficker,1991-06-27,,False,,,,,
+365,329,,1991-06-27,,False,,,,,
+366,330,Prosa,1991-06-27,,False,,,,,
+367,331,Geschenkt,1992-06-27,,False,,,,,
+368,196,Andante,1992-06-27,,False,,,,,
+369,332,Der Pfeiler,1992-06-27,,False,,,,,
+370,333,,1992-06-27,,False,,,,,
+371,334,Die Nase ab...,1992-06-27,,False,,,,,
+372,259,ausdeutschen,1992-06-27,,False,,,,,
+373,241,Die Touristenfarm,1992-06-27,,False,,,,,
+374,335,,1992-06-27,,False,,,,,
+375,336,Das Holz,1992-06-27,,False,,,,,
+376,337,,1992-06-27,,False,,,,,
+377,338,,1992-06-27,,False,,,,,
+378,339,Rettung,1992-06-27,,False,,,,,
+379,340,Universum schlaflos,1992-06-27,,False,,,,,
+380,226,,1992-06-27,,False,,,,,
+381,341,,1992-06-27,,False,,,,,
+382,342,Drei Viertel von Kapitel Eins,1992-06-27,,False,,,,,
+383,343,,1992-06-27,,False,,,,,
+384,344,,1992-06-27,,False,,,,,
+385,345,,1992-06-27,,False,,,,,
+386,346,Die Verlockungen und das Lügen,1992-06-27,,False,,,,,
+387,289,,1992-06-27,,False,,,,,
+388,347,,1993-06-27,,False,,,,,4
+389,348,Der Hypochonder,1993-06-27,,False,,,,,4
+390,349,,1993-06-27,,False,,,,,4
+391,350,,1993-06-27,,False,,,,,4
+392,351,,1993-06-27,,False,,,,,4
+393,352,,1993-06-27,,False,,,,,4
+394,353,Selbstakt vor der Staffelei,1993-06-27,,False,,,,,4
+395,354,Wege des Brennens. Elektrische Herzen,1993-06-27,,False,,,,,4
+396,355,,1993-06-27,,False,,,,,4
+397,225,,1993-06-27,,False,,,,,4
+398,356,,1993-06-27,,False,,,,,4
+399,357,Hochformat,1993-06-27,,False,,,,,4
+400,358,Alles tut er gern,1993-06-27,,False,,,,,4
+401,59,Anderes Licht,1993-06-27,,False,,,,,4
+402,359,Graben,1993-06-27,,False,,,,,4
+403,360,,1993-06-27,,False,,,,,4
+404,361,,1993-06-27,,False,,,,,4
+405,362,,1993-06-27,,False,,,,,4
+406,363,Haus ohne Menschen. Ein Zustand,1993-06-27,,False,,,,,4
+407,364,Der kurze Weg,1993-06-27,,False,,,,,4
+408,365,Paradebeispiel,1993-06-27,,False,,,,,4
+409,366,,1993-06-27,,False,,,,,4
+410,367,,1994-06-27,,False,,,,,
+411,368,Judith Mehlhorn,1994-06-27,,False,,,,,
+412,369,,1994-06-27,,False,,,,,
+413,370,Fünfzig Franken,1994-06-27,,False,,,,,
+414,371,,1994-06-27,,False,,,,,
+415,372,Ludwig Höhnel – Totenheft,1994-06-27,,False,,,,,
+416,373,Freak Franz,1994-06-27,,False,,,,,
+417,374,Heizung - Sanitär - Notdienst Maderegger,1994-06-27,,False,,,,,
+418,375,Einsame Spitzen,1994-06-27,,False,,,,,
+419,376,,1994-06-27,,False,,,,,
+420,377,Mullemann,1994-06-27,,False,,,,,
+421,378,,1994-06-27,,False,,,,,
+422,379,Umschreiben,1994-06-27,,False,,,,,
+423,260,,1994-06-27,,False,,,,,
+424,380,"Der Gärtner, der Kater und ich",1994-06-27,,False,,,,,
+425,381,,1994-06-27,,False,,,,,
+426,382,,1994-06-27,,False,,,,,
+427,245,,1994-06-27,,False,,,,,
+428,191,Fiona und Ferdinand,1994-06-27,,False,,,,,
+429,0,Guai,1994-06-27,,False,,,,,
+430,383,,1994-06-27,,False,,,,,
+431,384,Kippen,1994-06-27,,False,,,,,
+432,385,,1995-07-20,,False,,,,,
+433,386,,1995-07-20,,False,,,,,
+434,387,Die Welt ist groß und Rettung lauert überall,1995-07-20,,False,,,,,
+435,388,Die Frau aus der Hörspielabteilung,1995-07-20,,False,,,,,
+436,389,33 Augenblicke des Glücks,1995-07-20,,False,,,,,
+437,390,,1995-07-20,,False,,,,,
+438,391,Bestens,1995-07-20,,False,,,,,
+439,259,,1995-07-20,,False,,,,,
+440,392,,1995-07-20,,False,,,,,
+441,393,,1995-07-20,,False,,,,,
+442,394,Der Gast,1995-07-20,,False,,,,,
+443,395,Danach,1995-07-20,,False,,,,,
+444,396,,1995-07-20,,False,,,,,
+445,397,,1995-07-20,,False,,,,,
+446,302,Hundsnächte,1995-07-20,,False,,,,,
+447,398,Gold,1995-07-20,,False,,,,,
+448,399,Satz der Bäurin,1995-07-20,,False,,,1,,
+449,229,,1995-07-20,,False,,,,,
+450,400,Die Krautflut,1995-07-20,,False,,,,,
+451,401,Mein Sehen,1995-07-20,,False,,,1,,
+452,402,,1995-07-20,,False,,,,,
+453,403,,1995-07-20,,False,,,,,
+454,404,,1996-06-30,,False,,1,1,first_reading,4
+455,50,Domra,1996-06-30,,False,,18,3,last_reading,4
+456,405,,1996-06-30,,False,,3,1,,4
+457,406,"Wörter, die in der Asche schlafen",1996-06-30,,False,,19,4,first_reading,4
+458,407,Der Beitritt,1996-06-30,,False,,15,3,,4
+459,408,,1996-06-30,,False,,22,4,last_reading,4
+460,409,,1996-06-30,,False,,7,2,first_reading,4
+461,410,,1996-06-30,,False,,17,3,,4
+462,411,,1996-06-30,,False,,13,3,first_reading,4
+463,412,Bande,1996-06-30,,False,,12,2,last_reading,4
+464,413,Ägypten oder Scholastikas Künste,1996-06-30,,False,,14,3,,4
+465,414,,1996-06-30,,False,,16,3,,4
+466,415,Dickicht Anpassung,1996-06-30,,False,,8,2,,4
+467,416,Das Richtfest,1996-06-30,,False,,2,1,,4
+468,157,Nach Centaurus A,1996-06-30,,False,,11,2,,4
+469,417,,1996-06-30,,False,,20,4,,4
+470,418,MOI,1996-06-30,,False,,5,1,,4
+471,419,,1996-06-30,,False,,4,1,,4
+472,420,,1996-06-30,,False,,9,2,,4
+473,364,Der Fürst spricht,1996-06-30,,False,,21,4,,4
+474,421,,1996-06-30,,False,,10,2,,4
+475,330,,1996-06-30,,False,,6,1,last_reading,4
+476,422,,1997-06-29,,False,,16,3,last_reading,3
+477,423,,1997-06-29,,False,,9,2,,3
+478,274,Zerstörung des Unwissens,1997-06-29,,False,,1,1,first_reading,3
+479,424,,1997-06-29,,False,,14,3,,3
+480,425,Eddy Duffy,1997-06-29,,False,,5,1,,3
+481,257,,1997-06-29,,False,,7,2,first_reading,3
+482,426,Wie man's nimmt,1997-06-29,,False,,3,1,,3
+483,427,Tomboy,1997-06-29,,False,,13,3,first_reading,3
+484,428,Aus einer schönen Welt,1997-06-29,,False,,2,1,,3
+485,429,,1997-06-29,,False,,15,3,,3
+486,430,Einbruch und Wahn. Ein Versuch über die Umtriebe der Anderen,1997-06-29,,False,,10,2,,3
+487,431,Das Blütenstaubzimmer,1997-06-29,,False,,8,2,,3
+488,432,Die letzte Ikone,1997-06-29,,False,,6,1,last_reading,3
+489,433,Der Tanz des Gelähmten,1997-06-29,,False,,11,2,,3
+490,434,,1997-06-29,,False,,12,2,last_reading,3
+491,435,Nadiana,1997-06-29,,False,,4,1,,3
+492,436,Windladen,1998-06-27,,False,,16,3,last_reading,3
+493,437,13 Meistererzählungen,1998-06-27,,False,,15,3,,3
+494,438,Im Sommerwind,1998-06-27,,False,,14,3,,3
+495,439,Von Fall zu Fall,1998-06-27,,False,,13,3,first_reading,3
+496,440,Später Erfolg,1998-06-27,,False,,12,2,last_reading,3
+497,441,Pong,1998-06-27,,False,,11,2,,3
+498,442,Die Gunnar-Lennefsen-Expedition,1998-06-27,,False,,10,2,,3
+499,294,Die Tasche,1998-06-27,,False,,9,2,,3
+500,443,Eine Schlangengeschichte oder Der Traum des Maltesers,1998-06-27,,False,,8,2,,3
+501,444,Lucky und Hilal kehren nach dem Baden heim,1998-06-27,,False,,7,2,first_reading,3
+502,445,Hüttenkäse,1998-06-27,,False,,6,1,last_reading,3
+503,446,Fliegenfischen,1998-06-27,,False,,5,1,,3
+504,447,Chemische Reinigung,1998-06-27,,False,,4,1,,3
+505,448,Gold,1998-06-27,,False,,3,1,,3
+506,449,Das Granitei,1998-06-27,,False,,2,1,,3
+507,450,Das war für sie der schlimmste Traum,1998-06-27,,False,,1,1,first_reading,3
+508,451,San Borondon,1999-06-27,,False,,16,3,last_reading,3
+509,452,Warum das Kind in der Polenta kocht,1999-06-27,,False,,15,3,,3
+510,453,Verschlußzeit,1999-06-27,,False,,14,3,,3
+511,454,Passion,1999-06-27,,False,,13,3,first_reading,3
+512,455,Das Doppelleben der Amöbe,1999-06-27,,False,,12,2,last_reading,3
+513,456,Da sind schon ganz andere gescheitert,1999-06-27,,False,,11,2,,3
+514,457,Moosbrand,1999-06-27,,False,,10,2,,3
+515,458,Der Fall Ophelia,1999-06-27,,False,,9,2,,3
+516,459,Jupiter,1999-06-27,,False,,8,2,,3
+517,460,Mein Mörder,1999-06-27,,False,,7,2,first_reading,3
+518,461,Innere Werte,1999-06-27,,False,,6,1,last_reading,3
+519,462,Leise Hände,1999-06-27,,False,,5,1,,3
+520,463,Hirnhelle Heroine,1999-06-27,,False,,4,1,,3
+521,464,Glücksspagat,1999-06-27,,False,,3,1,,3
+522,465,Baden-Baden,1999-06-27,,False,,2,1,,3
+523,466,Tage,1999-06-27,,False,,1,1,first_reading,3
+524,467,Lück (Romanauszug),2000-07-20,,False,,16,3,last_reading,3
+525,468,Entgleisungen (Auszug),2000-07-20,,False,,15,3,,3
+526,469,Papiergewicht (Romanauszug),2000-07-20,,False,,14,3,,3
+527,470,Knoten (Romanauszug),2000-07-20,,False,,13,3,first_reading,3
+528,391,Wellness,2000-07-20,,False,,12,2,,3
+529,471,Die Leidensblume von Nattersheim,2000-07-20,,False,,11,2,,3
+530,472,Diagnosestunde (Romanauszug),2000-07-20,,False,,10,2,,3
+531,473,El Examen,2000-07-20,,False,,9,2,,3
+532,206,Was hab ich in Meppen zu suchen,2000-07-20,,False,,8,2,,3
+533,474,Auszug aus einem langen Prosatext,2000-07-20,,False,,7,2,first_reading,3
+534,475,Karl Heinz Zizala hat Krebs (Romanauszug),2000-07-20,,False,,6,1,last_reading,3
+535,476,Der Glückliche,2000-07-20,,False,,5,1,,3
+536,477,Fell und Federn,2000-07-20,,False,,4,1,,3
+537,478,"Mir nichts, dir nichts",2000-07-20,,False,,3,1,,3
+538,479,Hochdruck im Flachland,2000-07-20,,False,,2,1,,3
+539,480,Wasserschaden,2000-07-20,,False,,1,1,first_reading,3
+540,481,Romanauszug,2001-07-10,92,False,,16,3,last_reading,3
+541,482,Umgang mit Konflikten,2001-07-10,95,False,,15,3,,3
+542,483,"Onkel Jimmy, die Indianer und ich",2001-07-10,94,False,,14,3,,3
+543,484,Landläufig,2001-07-10,67,False,,13,3,first_reading,3
+544,485,Die Freuden der Jagd (Auszug),2001-07-10,91,False,,12,2,last_reading,3
+545,486,Sibirien,2001-07-10,67,False,,11,2,,3
+546,487,Sex kills. Eine griechische Affäre,2001-07-10,90,False,,10,2,,3
+547,488,Der Morphinist (Auszug),2001-07-10,90,False,,9,2,,3
+548,489,Hesters Traum,2001-07-10,88,False,,8,2,,3
+549,450,Muttersterben,2001-07-10,92,False,,7,2,first_reading,3
+550,490,Bloss ein Wintertag,2001-07-10,95,False,,6,1,last_reading,3
+551,491,Köln-Tokio,2001-07-10,90,False,,5,1,,3
+552,492,Lustig in die Welt hinein (Romanauszug),2001-07-10,94,False,,4,1,,3
+553,493,Das Märchen von der selbstgewählten Entführung,2001-07-10,91,False,,3,1,,3
+554,494,Mütter und Fahrzeuge,2001-07-10,88,False,,2,1,,3
+555,353,Fluchtanstalt,2001-07-10,67,False,,1,1,first_reading,3
+556,495,Steine,2002-06-30,93,False,Times New Roman,16,3,last_reading,3
+557,496,Heul doch!,2002-06-30,94,False,Arial,15,3,,3
+558,497,Verschollen,2002-06-30,67,False,Courier,14,3,,3
+559,498,Tabula rasa,2002-06-30,67,False,Arial,13,3,first_reading,3
+560,499,Insel Vierunddreißig,2002-06-30,92,False,Times New Roman,12,2,last_reading,3
+561,500,Auszug aus einer längeren Erzählung,2002-06-30,91,False,Times New Roman,11,2,,3
+562,501,Himmel & Hölle,2002-06-30,94,False,Times New Roman,10,2,,3
+563,502,Deauville,2002-06-30,95,False,,9,2,,3
+564,503,Auf. Stummen (Auszug),2002-06-30,88,False,,8,2,,3
+565,504,Geschichte von Nichts,2002-06-30,91,False,Times New Roman,7,2,first_reading,3
+566,505,Auszeit,2002-06-30,88,False,Arial,6,1,last_reading,3
+567,506,Die toten Männer (Auszug aus einer Novelle),2002-06-30,95,False,,5,1,,3
+568,507,Die Rechtfertigung des Alltäglichen oder drei Worthäuser in der Straße des jungen Er,2002-06-30,88,False,,4,1,,3
+569,508,Steinzeit,2002-06-30,95,False,Arial,3,1,,3
+570,509,Buchenhofstaffel,2002-06-30,93,False,Arial,2,1,,3
+571,510,Schnitt,2002-06-30,92,False,Arial,1,1,first_reading,3
+572,511,"Prosa, Proserpina, Prosa",2003-06-29,100,False,Garamond,18,3,last_reading,3
+573,512,Romananfang,2003-06-29,99,False,Times New Roman,17,3,,3
+574,513,Fester (Romanauszug),2003-06-29,98,False,Times New Roman,16,3,,3
+575,514,Wiederkehr,2003-06-29,102,False,Arial,15,3,first_reading,3
+576,515,John F. Kennedy und der Ausbruch des Irazú,2003-06-29,92,False,Times New Roman,14,2,last_reading,3
+577,516,"Wahrheit ist das wovon Männer gerne behaupten, dass es ihnen um sie geht",2003-06-29,79,False,Arial,13,2,,3
+578,517,Klagenfurt,2003-06-29,97,False,Times New Roman,12,2,after_break,3
+579,227,Die hundertzwanzig Tage von Berlin (Auszug),2003-06-29,79,False,Arial,11,2,before_break,3
+580,518,Häute,2003-06-29,99,False,Courier,10,2,,3
+581,519,In Farnschatten,2003-06-29,96,False,Garamond,9,2,,3
+582,520,Schwester und Bruder (Romanauszug),2003-06-29,98,False,Garamond,8,2,first_reading,3
+583,521,Commander Coeursledge (Romanauszug),2003-06-29,101,False,Times New Roman,7,1,last_reading,3
+584,522,Zuckerwatte und Gesang,2003-06-29,97,False,Courier,6,1,,3
+585,523,Die Lust am Walde (Auszug),2003-06-29,101,False,Bookman,5,1,after_break,3
+586,524,Elf Uhr dreiunddreissig,2003-06-29,102,False,Arial,4,1,before_break,3
+587,525,Der Schlafanzug,2003-06-29,92,False,Arial,3,1,,3
+588,492,Huhn in der Suppe,2003-06-29,96,False,Palatino,2,1,,3
+589,526,Die große Entfernung,2003-06-29,100,False,Palatino,1,1,first_reading,3
+590,527,Blaue Augen,2004-06-27,105,False,Arial,18,3,last_reading,3
+591,419,16. April 2001,2004-06-27,98,False,Times New Roman,17,3,,3
+592,528,Pelargonien,2004-06-27,79,False,Times New Roman,16,3,,3
+593,529,Das halbe Leben,2004-06-27,104,False,Courier,15,3,first_reading,3
+594,530,Pauls Fall (Auszug),2004-06-27,92,False,Times New Roman,14,2,last_reading,3
+595,531,Im Schaufenster in Frühling (Romanauszug),2004-06-27,104,False,Arial,13,2,,3
+596,532,Der Schlaf in den Uhren (Romanauszug),2004-06-27,100,False,Times New Roman,12,2,,3
+597,533,Kennen sie Tschechow,2004-06-27,100,False,Times New Roman,11,2,,3
+598,483,Auszug aus einer Novelle,2004-06-27,98,False,Times New Roman,10,2,,3
+599,534,Baader Braun,2004-06-27,102,False,Times New Roman,9,2,,3
+600,535,Einführung in die doppelte Buchhaltung,2004-06-27,102,False,Times New Roman,8,2,first_reading,3
+601,536,N° 9,2004-06-27,103,False,Times New Roman,7,1,last_reading,3
+602,537,Den Himmel zu Füßen (Romanauszug),2004-06-27,103,False,Times New Roman,6,1,,3
+603,538,Beginn eines Romans,2004-06-27,92,False,Times New Roman,5,1,,3
+604,539,Guantánamo (Romanauszug),2004-06-27,99,False,Times New Roman,4,1,,3
+605,540,Nichts ist schlimmer als Unversehrtheit,2004-06-27,79,False,Garamond,3,1,,3
+606,541,Diesseits des Van-Allen-Gürtels,2004-06-27,105,False,Courier,2,1,,3
+607,542,Kavaliersdelikt,2004-06-27,99,False,Times New Roman,1,1,first_reading,3
+608,543,Susi Voss,2005-06-26,79,False,Times New Roman,17,3,last_reading,3
+609,544,Kindbettfieber,2005-06-26,104,False,Bookman,16,3,,3
+610,545,Am Seil,2005-06-26,92,True,Courier,15,3,first_reading,3
+611,546,Passau - ein Versuch (Auszüge),2005-06-26,103,False,Times New Roman,14,2,last_reading,3
+612,547,Das Archiv,2005-06-26,102,False,Garamond,13,2,,3
+613,548,Auszug,2005-06-26,99,True,Times New Roman,12,2,,3
+614,549,Karpfen grün,2005-06-26,100,False,Times New Roman,11,2,,3
+615,550,Ins Wasser schlachten.,2005-06-26,102,False,Times New Roman,10,2,,3
+616,551,Noch auf dem Bahnsteig ...,2005-06-26,99,True,Times New Roman,9,2,,3
+617,552,Planet Obrist,2005-06-26,104,False,Arial,8,2,first_reading,3
+618,553,"Oben, wo nichts mehr ist",2005-06-26,105,True,Times New Roman,7,1,last_reading,3
+619,554,Der Savant (Arbeitstitel),2005-06-26,98,False,Times New Roman,6,1,,3
+620,555,Zuhause,2005-06-26,105,True,Arial,5,1,,3
+621,556,Was wir im Keller spielen ...,2005-06-26,100,True,Book Antiqua,4,1,,3
+622,557,Die Frage wer anfängt,2005-06-26,103,True,Times New Roman,3,1,,3
+623,558,Der Ritt durch den Feind,2005-06-26,79,True,Arial,2,1,,3
+624,559,Plug In,2005-06-26,98,True,Times New Roman,1,1,first_reading,3
+625,560,Arrest,2006-06-25,92,False,Arial,18,3,last_reading,3
+626,561,Paso Doble,2006-06-25,98,False,Book Antiqua,17,3,,3
+627,562,Sie befinden sich hier,2006-06-25,102,False,Computer Modern,16,3,,3
+628,563,Sofija (Romanauszug),2006-06-25,105,False,Arial,15,3,first_reading,3
+629,564,Überm Rauschen,2006-06-25,79,False,Arial,14,2,last_reading,3
+630,565,Werktagsüber,2006-06-25,102,False,Book Antiqua,13,2,,3
+631,566,Nachbeben,2006-06-25,104,False,Arial,12,2,,3
+632,567,Aufnahme,2006-06-25,79,False,Courier,11,2,,3
+633,351,Anfang,2006-06-25,103,False,Times New Roman,10,2,,3
+634,568,Nachtschwimmen,2006-06-25,92,False,Times New Roman,9,2,,3
+635,569,Stillstand,2006-06-25,103,False,Garamond,8,2,first_reading,3
+636,570,Aus dem Unterholz,2006-06-25,105,False,Courier,7,1,last_reading,3
+637,571,Im Komponierhäuschen (Auszug),2006-06-25,100,False,Arial,6,1,,3
+638,572,Das Aquarium,2006-06-25,99,False,Times New Roman,5,1,,3
+639,573,Reise zum Fluss,2006-06-25,99,False,Times New Roman,4,1,,3
+640,574,Ohne Titel,2006-06-25,104,False,Times New Roman,3,1,,3
+641,575,Stadt Land Berg,2006-06-25,100,False,Times New Roman,2,1,,3
+642,576,Diskrete Momente (Auszug),2006-06-25,98,False,Arial,1,1,first_reading,3
+643,577,Dem Schliff sein Tod,2007-07-10,105,False,Arial,18,3,last_reading,3
+644,578,Text für Klagenfurt,2007-07-10,79,True,Times New Roman,17,3,,3
+645,579,Eine halbe Stunde noch,2007-07-10,55,False,Times New Roman,16,3,,3
+646,580,Freundwärts,2007-07-10,107,True,Arial,15,3,first_reading,3
+647,581,Die Geschichte meiner Einschätzung am Anfang des dritten Jahrtausends,2007-07-10,79,True,Times New Roman,14,2,last_reading,3
+648,582,Wunschbruder (Romanauszug),2007-07-10,55,True,Verdana,13,2,,3
+649,583,Der Briefschreiber (Romanauszug),2007-07-10,,False,Georgia,12,2,,3
+650,584,Böses Spiel,2007-07-10,102,False,,11,2,,3
+651,585,Mein afrikanisches Jubeljahr,2007-07-10,,False,Garamond,10,2,,3
+652,586,Prolog eines neuen Romans,2007-07-10,104,False,Times New Roman,9,2,,3
+653,587,Die Furchtlosen,2007-07-10,99,True,Times New Roman,8,2,first_reading,3
+654,588,Turksib (Auszug),2007-07-10,100,True,Times New Roman,7,1,last_reading,3
+655,589,Unannehmlichkeiten durch Liebe (Auszug),2007-07-10,107,False,Times New Roman,6,1,,3
+656,590,Von Schläfe zu Schläfe/Phantomschirm (Multimedia-Performance),2007-07-10,100,False,Garamond,5,1,,3
+657,591,Freunde,2007-07-10,102,False,Bell MT,4,1,,3
+658,592,Abschied aus einer Umlaufbahn,2007-07-10,99,True,Garamond,3,1,,3
+659,593,was sie hier haben,2007-07-10,105,False,Garamond,2,1,,3
+660,594,Netzhaut,2007-07-10,104,False,,1,1,first_reading,3
+661,595,Muttervaterkind,2008-06-28,105,False,Times New Roman,14,2,last_reading,2
+662,596,Der Kaiser von China (Romanauszug),2008-06-28,99,True,Garamond,13,2,,2
+663,597,Pomona,2008-06-28,108,True,Times New Roman,12,2,,2
+664,598,Inland,2008-06-28,,False,Courier,11,2,,2
+665,599,Flugangst,2008-06-28,92,False,Arial,10,2,,2
+666,600,Im roten Meer,2008-06-28,105,True,Times New Roman,9,2,,2
+667,601,Das luftige Leben,2008-06-28,99,False,Times New Roman,8,2,first_reading,2
+668,602,Das Zimmermädchen (Romanauszug),2008-06-28,102,True,Garamond,7,1,last_reading,2
+669,603,Kein schöner Land (Romanauszug),2008-06-28,92,True,Courier,6,1,,2
+670,604,Der Tod ist ein Postmann mit Hut (Romanauszug),2008-06-28,108,False,Times New Roman,5,1,,2
+671,605,Super-8,2008-06-28,,False,Georgia,4,1,,2
+672,606,Die Waage,2008-06-28,102,False,,3,1,,2
+673,607,Scherbenpark (Romanauszug),2008-06-28,107,True,Bookman Old Style,2,1,,2
+674,608,Livia,2008-06-28,107,False,Times New Roman,1,1,first_reading,2
+675,609,leben ist anders (Auszug),2009-06-28,92,True,Courier,14,3,last_reading,3
+676,610,Fifty Fifty,2009-06-28,107,True,Times New Roman,13,3,,3
+677,611,Aus dem Gras,2009-06-28,111,False,Garamond,12,3,,3
+678,612,Winterfisch,2009-06-28,112,True,Times New Roman,11,3,first_reading,3
+679,613,Auszeit,2009-06-28,108,True,Times New Roman,10,2,last_reading,3
+680,614,Bis dass der Tod,2009-06-28,92,True,Times New Roman,9,2,after_break,3
+681,615,Hinter der Wand,2009-06-28,111,False,,8,2,,3
+682,448,Auszug aus der Novelle „Der Fotoeffekt“,2009-06-28,109,True,Times New Roman,7,2,,3
+683,616,Die Welt der schönen Dinge,2009-06-28,110,False,Times New Roman,6,2,first_reading,3
+684,617,Wo viel Licht ist,2009-06-28,109,True,Times New Roman,5,1,last_reading,3
+685,618,Fifty Blues,2009-06-28,107,False,Times New Roman,4,1,after_break,3
+686,619,Auszug aus der Novelle „Heimgehen“,2009-06-28,112,False,Garamond,3,1,before_break,3
+687,620,Blätterliebe,2009-06-28,110,False,Times New Roman,2,1,,3
+688,621,Der Mann mit der Uhr,2009-06-28,108,False,Times New Roman,1,1,first_reading,3
+689,622,schlachten. Ein Alphabet der Indizien. (Romanauszug),2010-06-27,92,False,Times New Roman,14,3,last_reading,3
+690,623,"Hutmacher, privat (Romanauszug aus „Der Reich'sche Ansatz“)",2010-06-27,111,True,Arial,13,3,,3
+691,624,Schnee,2010-06-27,112,False,Times New Roman,12,3,,3
+692,311,Ich finde dich/Rabenliebe,2010-06-27,109,True,Times New Roman,11,3,first_reading,3
+693,625,Ausflug,2010-06-27,110,False,Times New Roman,10,2,last_reading,3
+694,626,"Dinge, die wir heute sagten (Romanauszug)",2010-06-27,112,True,Garamond,9,2,after_break,3
+695,627,Google Earth,2010-06-27,113,True,Computer Modern,8,2,before_break,3
+696,628,Die Besteigung der Eigernordwand unter einer Treppe,2010-06-27,113,False,Times New Roman,7,2,,3
+697,629,Cave canem,2010-06-27,110,False,Times New Roman,6,2,first_reading,3
+698,630,Einladung an die Waghalsigen (Auszug),2010-06-27,111,True,Times New Roman,5,1,last_reading,3
+699,631,Bleib am Leben (Auszug aus „Land spielen“),2010-06-27,92,False,Times New Roman,4,1,after_break,3
+700,632,Ein versteckter Mensch (Romanauszug),2010-06-27,108,False,Book Antiqua,3,1,before_break,3
+701,633,Letzte Fischer,2010-06-27,109,False,,2,1,,3
+702,634,Katzenberge,2010-06-27,108,True,Times New Roman,1,1,first_reading,3
+703,635,9to5 Hardcore,2011-07-10,113,True,Garamond,14,3,last_reading,3
+704,636,Wespe,2011-07-10,112,False,Times New Roman,13,3,,3
+705,637,Geschwister,2011-07-10,112,False,Times New Roman,12,3,,3
+706,638,Schimmernder Dunst über Cobycounty (Romanauszug),2011-07-10,108,True,Arial,11,3,first_reading,3
+707,639,Spur einer Dorfgeschichte,2011-07-10,109,True,Computer Modern,10,2,last_reading,3
+708,640,Große Ferien (Romanauszug),2011-07-10,111,True,Georgia,9,2,after_break,3
+709,641,Erdfresserin (Romanauszug),2011-07-10,102,True,Times New Roman,8,2,before_break,3
+710,642,Im Kessel,2011-07-10,102,True,Times New Roman,7,2,,3
+711,643,Weltgegend,2011-07-10,109,False,Times New Roman,6,2,first_reading,3
+712,644,"Vollkommen leblos, bestenfalls tot",2011-07-10,113,False,Arial,5,1,last_reading,3
+713,645,Das Andere,2011-07-10,92,False,Times New Roman,4,1,after_break,3
+714,646,Standby (Romanauszug),2011-07-10,111,False,Nimbus,3,1,before_break,3
+715,647,Einen Schatz vergraben,2011-07-10,92,False,Cambria,2,1,,3
+716,648,Auszug aus einem Roman,2011-07-10,108,True,Arial,1,1,first_reading,3
+717,649,Abgetrennt,2012-07-08,114,False,Times New Roman,14,3,last_reading,3
+718,433,Aki,2012-07-08,102,True,Verdana,13,3,,3
+719,650,Aufzeichnungen aus der Kuranstalt,2012-07-08,111,True,Arial,12,3,,3
+720,651,Unternehmer,2012-07-08,112,True,Georgia,11,3,first_reading,3
+721,652,Ich werde dich finden (Romanauszug),2012-07-08,114,False,Courier,10,2,last_reading,3
+722,653,Willste abhauen,2012-07-08,113,True,Garamond,9,2,after_break,3
+723,654,Ich werde sagen: „HI“,2012-07-08,111,True,Arial,8,2,before_break,3
+724,655,Junge Hunde (Romanauszug),2012-07-08,113,False,Calibri,7,2,,3
+725,656,ohne Titel,2012-07-08,92,False,,6,2,first_reading,3
+726,657,Die Taten und Laute des Tages,2012-07-08,102,False,Times New Roman,5,1,last_reading,3
+727,658,Der Einsteiger,2012-07-08,109,True,Times New Roman,4,1,after_break,3
+728,659,Bettlägerige Geheimnisse,2012-07-08,109,False,Times New Roman,3,1,before_break,3
+729,660,Kettenkarussell,2012-07-08,112,False,Palatino,2,1,,3
+730,661,Der Hund von Saloniki,2012-07-08,92,True,Times New Roman,1,1,first_reading,3
+731,662,Requiem der Vierzigjährigen (Romanauszug),2013-07-07,115,False,Times New Roman,14,3,last_reading,3
+732,663,„Wie man einen Käfer richtig fängt“ von Joachim Kaltenbach,2013-07-07,113,True,Arial,13,3,,3
+733,664,Das kalte Jahr (Auszug),2013-07-07,111,True,Times New Roman,12,3,,3
+734,665,Schattenlider,2013-07-07,115,False,Minion,11,3,first_reading,3
+735,666,Vielleicht Esther (Romanauszug),2013-07-07,112,True,Times New Roman,10,2,last_reading,3
+736,667,Ein Lied in allen Dingen,2013-07-07,113,False,Garamond,9,2,after_break,3
+737,668,Wir sind schön,2013-07-07,102,True,Helvetica,8,2,before_break,3
+738,669,Ostrov Mogila (Romanauszug),2013-07-07,102,False,Times New Roman,7,2,,3
+739,670,"Gott is Brasilianer, Jesus anscheinend auch",2013-07-07,92,False,Cambria,6,2,first_reading,3
+740,671,Falunrot,2013-07-07,109,False,Goudy,5,1,last_reading,3
+741,672,Es bringen (Romanauszug),2013-07-07,111,True,Courier,4,1,after_break,3
+742,673,Scherben schlucken,2013-07-07,92,False,Liberation Sans,3,1,before_break,3
+743,674,Ich brauche das Buch,2013-07-07,112,True,Cambria,2,1,,3
+744,675,Zucker,2013-07-07,109,True,Times New Roman,1,1,first_reading,3
+745,676,Millefleurs,2014-07-06,112,False,Times New Roman,13,3,last_reading,3
+746,677,Wir waren niemals hier,2014-07-06,102,True,Arial,12,3,,3
+747,678,DOWN DOWN DOWN To The Queen Of Chinatown,2014-07-06,92,True,Times New Roman,11,3,first_reading,3
+748,679,Ignis Cool,2014-07-06,112,False,Calibri,10,2,last_reading,3
+749,680,Simeliberg (Romanauszug),2014-07-06,115,True,Helvetica,9,2,after_break,3
+750,681,Vor der Zunahme der Zeichen (Romanauszug),2014-07-06,109,True,Times New Roman,8,2,before_break,3
+751,682,Maia,2014-07-06,,False,Calibri,7,2,,3
+752,683,Ichthys,2014-07-06,92,False,,6,2,first_reading,3
+753,514,Unter Platanen,2014-07-06,102,False,Cambria,5,1,last_reading,3
+754,684,Ujjayi (Romanauszug),2014-07-06,113,True,Arial,4,1,after_break,3
+755,685,Steuerstrafakte,2014-07-06,115,False,Times New Roman,3,1,before_break,3
+756,686,unbetitelter Text,2014-07-06,109,False,Calibri,2,1,,3
+757,687,Die fröhlichen Pferde von Chauvet,2014-07-06,,True,Times New Roman,1,1,first_reading,3
+758,688,Das primäre Gefühl der Schuldlosigkeit,2015-07-05,112,Shortlist ,Cambria,14,3,last_reading,3
+759,689,"Oh, Schimmi",2015-07-05,113,Shortlist ,Georgia,13,3,,3
+760,690,Die Farbe des Granatapfels,2015-07-05,116,Shortlist ,Calibri,12,3,,3
+761,691,Erwachen im 21. Jahrhundert,2015-07-05,115,Shortlist ,Arial,11,3,first_reading,3
+762,692,Welt am Sonntag,2015-07-05,113,False,Times New Roman,10,2,last_reading,3
+763,693,Esche,2015-07-05,112,Shortlist ,Calibri,9,2,after_break,3
+764,429,Zum Paradies,2015-07-05,115,False,Cambria,8,2,before_break,3
+765,694,Krieger sein Bruder sein – Manifest 47,2015-07-05,117,False,Calibri,7,2,,3
+766,695,RTL-Reptil,2015-07-05,116,False,Calibri,6,2,first_reading,3
+767,696,Das Bein,2015-07-05,117,Shortlist ,Times New Roman,5,1,last_reading,3
+768,697,"BROT, BROT, BROT",2015-07-05,109,False,Times New Roman,4,1,after_break,3
+769,698,Hierbleiben,2015-07-05,118,False,,3,1,,3
+770,699,Recherche,2015-07-05,118,True,Cambria,2,1,,3
+771,700,Es ist weit bis Marseille,2015-07-05,109,False,Computer Modern Typewriter,1,1,first_reading,3
+772,585,Los Alamos ist winzig,2016-07-30,115,True,Times New Roman,14,3,last_reading,3
+773,701,Das verlassenste Land,2016-07-30,115,False,Courier,13,3,,3
+774,702,Herr Gröttrup setzt sich hin,2016-07-30,118,True,Arial,12,3,,3
+775,703,Betrunkene Bäume,2016-07-30,112,False,Times New Roman,11,3,first_reading,3
+776,704,"Schnell, dein Leben",2016-07-30,113,False,Times New Roman,10,2,last_reading,3
+777,705,unbetitelter Text,2016-07-30,117,False,Times New Roman,9,2,after_break,3
+778,706,Binde zwei Vögel zusammen,2016-07-30,109,True,Times New Roman,8,2,before_break,3
+779,707,Araber und Schakale,2016-07-30,109,True,Cambria,7,2,,3
+780,708,Walter Nowak bleibt liegen,2016-07-30,113,True,Courier,6,2,first_reading,3
+781,709,Ein geheimer Akkord,2016-07-30,116,False,,5,1,last_reading,3
+782,710,MEZZANIN,2016-07-30,116,False,Garamond,4,1,after_break,3
+783,711,Als nach Milošević das Wasser kam,2016-07-30,117,True,Calibri,3,1,before_break,3
+784,712,Das alte Lied von Señor Magma,2016-07-30,112,False,Courier,2,1,,3
+785,713,Penne vom Kika,2016-07-30,118,False,Arial,1,1,first_reading,3
+786,714,Ein Bier im Banja,2017-07-09,119,True,Georgia,14,3,last_reading,3
+787,715,Europas längster Sommer,2017-07-09,109,False,Arial,13,3,,3
+788,716,Loses Mappe,2017-07-09,112,True,Arnhem,12,3,,3
+789,717,Hysteria,2017-07-09,119,True,Times New Roman,11,3,first_reading,3
+790,718,In der Steppe,2017-07-09,109,False,,10,2,last_reading,3
+791,719,Cleanster,2017-07-09,113,True,Garamond,9,2,after_break,3
+792,720,Memorabilia,2017-07-09,117,False,Helvetica,8,2,before_break,3
+793,721,Die Mieter,2017-07-09,117,False,,7,2,,3
+794,722,mein lieblingstier heißt winter,2017-07-09,118,True,Helvetica,6,2,first_reading,3
+795,479,Der Name,2017-07-09,112,False,Times New Roman,5,1,last_reading,3
+796,723,Fifty Shades of Gray,2017-07-09,113,False,Garamond,4,1,after_break,3
+797,724,Madrigal,2017-07-09,118,True,Times New Roman,3,1,before_break,3
+798,725,Weintrieb,2017-07-09,116,False,Book Antiqua,2,1,,3
+799,726,Wiener Kindl,2017-07-09,116,False,Times New Roman,1,1,first_reading,3
+800,727,Der Himmel über 9A,2018-07-08,119,False,Georgia,14,3,last_reading,3
+801,728,und ich brenne,2018-07-08,121,True,Cambria,13,3,after_break,3
+802,729,DESTINATION: AUSTRIA,2018-07-08,116,False,Courier,12,3,before_break,3
+803,730,"Tagebuch einer jungen Frau, die am Fall beteiligt war",2018-07-08,113,False,Times New Roman,11,3,first_reading,3
+804,731,Mach’s wie Miltos!,2018-07-08,120,False,Times New Roman,10,2,last_reading,3
+805,732,SERPENTINEN,2018-07-08,117,True,Cambria,9,2,after_break,3
+806,733,Frösche im Meer,2018-07-08,116,True,Times New Roman,8,2,before_break,3
+807,734,Carter,2018-07-08,119,True,Liberation Serif,7,2,,3
+808,735,"Der Nächste, bitte!",2018-07-08,120,False,,6,2,first_reading,3
+809,736,Flexen in Miami,2018-07-08,121,True,Times New Roman,5,1,last_reading,3
+810,737,Warten auf Ava,2018-07-08,112,True,Times New Roman,4,1,after_break,3
+811,738,Lumumbaland,2018-07-08,113,False,Cambria,3,1,before_break,3
+812,739,SCHNITTMUSTER,2018-07-08,112,False,Cambria,2,1,,3
+813,740,Das Loch,2018-07-08,117,True,Charter,1,1,first_reading,3
+814,741,Und ich war da,2019-06-30,119,False,Georgia,14,3,last_reading,3
+815,742,Mein Vater ist ein Baum,2019-06-30,116,False,Georgia,13,3,,3
+816,743,Nymphenverzeichnis Muster Nummer eins Goldkopf,2019-06-30,113,True,Garamond,12,3,first_reading,3
+817,744,Romanauszug abspenstig,2019-06-30,120,False,Helvetica,11,3,last_reading,3
+818,745,Von schlechten Eltern,2019-06-30,119,False,Calibri,10,2,after_break,3
+819,746,Der Fluch,2019-06-30,113,True,Times New Roman,9,2,before_break,3
+820,747,Der Schrank,2019-06-30,116,True,Georgia,8,2,,3
+821,748,Vierundsiebzig,2019-06-30,121,True,Times New Roman,7,2,,3
+822,749,Kenn ich nicht,2019-06-30,112,False,,6,2,first_reading,3
+823,750,Das kann ich,2019-06-30,112,False,Courier,5,1,last_reading,3
+824,751,Unweit vom Schakaltal,2019-06-30,117,True,Times New Roman,4,1,after_break,3
+825,752,Auszug aus dem Roman Der Wod,2019-06-30,120,False,Century Schoolbook,3,1,before_break,3
+826,753,Raumstation Hirschstetten,2019-06-30,117,True,Times New Roman,2,1,,3
+827,754,Urmünder,2019-06-30,121,False,Times New Roman,1,1,first_reading,3
+828,755,und dann,2020-06-21,113,True,Courier New,10,2,last_reading,3
+829,756,Nadjeschda,2020-06-21,122,False,Times New Roman,4,1,after_break,3
+830,757,Vom Aufstehen,2020-06-21,121,True,Arial,6,2,first_reading,3
+831,758,Ziva,2020-06-21,123,False,Garamond,13,3,after_break,3
+832,650,Warenz,2020-06-21,113,True,Calibri,9,2,after_break,3
+833,759,Ü. Romanauszug,2020-06-21,123,False,Cambria,1,1,first_reading,3
+834,760,kuzushi,2020-06-21,120,False,Cambria,5,1,last_reading,3
+835,761,Immer im Krieg,2020-06-21,117,True,Times New Roman,8,2,before_break,3
+836,762,Adam,2020-06-21,119,False,Garamond,14,3,last_reading,3
+837,763,Für bestimmte Welten kämpfen und gegen andere,2020-06-21,117,True,Garamond,2,1,,3
+838,764,"Über uns, Luzifer",2020-06-21,119,False,Book Antiqua,3,1,before_break,3
+839,765,Es wird einmal,2020-06-21,121,True,Times New Roman,7,2,,3
+840,766,Der große Gruß,2020-06-21,120,False,Calibri,11,3,first_reading,3
+841,767,Der heißeste Sommer,2020-06-21,122,True,Times New Roman,12,3,before_break,3

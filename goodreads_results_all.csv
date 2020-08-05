@@ -1,0 +1,733 @@
+author_id,author_name,goodreads_name,goodreads_genre,total_publications,goodreads_followers,average_rating,ratings_count
+0,Reto Hänny,Reto Hänny,,9,,3.33,9
+1,Jost Perfahl,Jost Perfahl,,9,,3.2,5
+2,Elisabeth Plessen,Elisabeth Plessen,,8,,3.23,43
+3,Vintila Ivanceanu,Vintilă Ivănceanu,,5,,4.83,12
+4,Horst Bienek,Horst Bienek,,24,2,4.02,96
+5,Renate Schostack,Renate Schostack,,5,,2.0,1
+6,Klaus Stiller,Klaus Stiller,,1,,0.0,0
+7,Maria Elisabeth Straub,Maria Elisabeth Straub,,9,,3.78,214
+8,Hans-Jürgen Fröhlich,Hans Jürgen Fröhlich,,1,,0.0,0
+9,Herbert Eisenreich,Herbert Eisenreich,,4,,3.25,4
+10,Marie-Thérèse Kerschbaumer,Marie-Therese Kerschbaumer,,4,1,4.33,3
+11,Uwe Bolius,Uwe Bolius,,2,,1.0,1
+12,Karin Struck,Karin Struck,,8,,3.31,16
+13,Gert Jonke,Gert Jonke,Poetry|Theater,20,6,3.77,301
+14,Jürg Laederach,Jürg Laederach,,15,3,3.73,22
+15,Dieter Kühn,Dieter Kuhn,,28,,4.12,119
+16,Peter Schalmey,Peter Schalmey,,3,,4.0,2
+17,Godehard Schramm,Godehard Schramm,,6,,3.0,1
+18,Heinz Pototschnig,Heinz Pototschnig,,1,,2.0,1
+19,Gerhard Meier,Gerhard Meier,,48,,3.79,554
+20,Walter Kappacher,Walter Kappacher,,15,8,3.04,184
+21,Hermann Friedl,Hermann Friedl,,2,,2.0,1
+22,Rolf Schneider,Rolf Schneider,,55,,3.84,31
+23,O. P. Zier,O.P. Zier,,1,,2.14,7
+24,Hannelies Taschau,Hannelies Taschau,,5,,3.67,3
+25,Helga Schütz,Helga Schütz,,10,,2.67,3
+26,Jutta Schutting,Jutta Schütt,,2,,0.0,0
+27,Eva Schindler,Eva Schindler-Rainman,,2,,0.0,0
+28,Peter Renz,Hans Peter Renz,,1,,0.0,0
+29,Ulrich Plenzdorf,Ulrich Plenzdorf,Literature & Fiction,20,4,3.35,2448
+30,Erika Pedretti,Erica Pedretti,,9,4,3.0,15
+31,Hanns-Josef Ortheil,Hanns-Josef Ortheil,,62,26,3.81,1404
+32,Engelbert Obernosterer,Engelbert Obernosterer,,1,,4.0,1
+33,E. Y. Meyer,E.Y. Meyer,,7,,3.33,3
+34,Angelika Mechtel,Angelika Mechtel,,21,,3.03,164
+35,Gertrud Leutenegger,Gertrud Leutenegger,Poetry|Fiction,14,,2.76,51
+36,Ursula Krechel,Ursula Krechel,,18,5,3.84,215
+37,Hermann Kinder,Werner Hilgemann,,4,1,4.19,431
+38,Christine Haidegger,Christine Haidegger,,2,1,0.0,0
+40,Christoph Geiser,Christoph Geiser,,12,,2.73,11
+41,Herbert Fleck,George Russel,,1,,4.0,1
+42,Ludwig Fels,Ludwig Fels,Fiction,17,1,3.48,23
+43,Helmut Eisendle,Helmut Eisendle,,16,1,4.15,13
+44,Jeannie Ebner,Richard Bach,Literature & Fiction,66,2620,3.91,296055
+45,Catarina Carsten,Catarina Carsten,,4,,0.0,0
+46,Hermann Burger,Hermann Burger,Literature & Fiction,28,3,3.92,59
+47,Katja Behrens,Katja Behrens,Literature & Fiction|Biographies & Memoirs,26,,3.49,76
+48,Walter Müller,Robert Dodaro,,10,3,4.15,112
+49,Gerald Zschorsch,Gerald K. Zschorsch,,2,,0.0,0
+50,Josef Winkler,Josef Winkler,Fiction,29,18,3.62,454
+51,Erich Wolfgang Skwara,Erich Wolfgang Skwara,,13,1,3.81,27
+52,Doris Richter,Doris Richter,,34,,5.0,1
+53,Ernst Nowak,Ernst Nowak,,4,,0.0,0
+54,Dorothea Macheiner,Dorothea Macheiner,,3,,5.0,1
+55,Martin Luksan,Martin Lussan,,6,,0.0,0
+56,Klaus Konjetzky,Klaus Konjetzky,,3,1,3.2,5
+57,Paul Kersten,Gunther Verheyen,Business,6,18,4.28,359
+58,Diana Kempff,Diana Kempff,,3,2,1.0,1
+59,Hanna Johansen,Hanna Johansen,Children's Books|Literature & Fiction,35,1,3.56,322
+60,Katrine von Hutten,Eudora Welty,Literature & Fiction|Art & Photojournalism,138,620,3.87,46008
+61,Karl Günther Hufnagel,Karl Gunther Hufnagel,,2,,3.0,1
+62,Heribert Hopf,Heribert Hofer,,4,,3.6,5
+63,Gert Hofmann,Gert Hofmann,Literature & Fiction,24,7,3.65,310
+64,Lukas Hartmann,Lukas Hartmann,,30,5,3.52,530
+65,Marianne Gruber,Marianne Gruber,,10,1,3.11,9
+66,Markus Fenner,Markus Zenner,,1,,0.0,0
+67,Maria Felsenreich,Graham Greene,Fiction|Thriller|Memoir,339,4334,3.88,298629
+68,Gunter Falk,Janet Hutchings,Mystery,92,4,4.01,511
+69,Ernst-Jürgen Dreyer,Ernst-Jurgen Dreyer,,1,,0.0,0
+70,Helmut Degner,Helmut Degner,,13,,3.63,75
+71,Jan Christ,Jane Christmas,,8,26,3.52,2503
+72,Franz Böni,Franz Böni,Literature & Fiction,9,,4.0,8
+73,Jurek Becker,Jurek Becker,Literature & Fiction,34,21,3.78,2899
+74,Peter Roos,Peter De Roo,,4,,3.33,3
+75,Martin Roda Becher,Martin Roda Becher,,8,1,5.0,1
+76,Renate Rasp,Renate Rasp,,5,,3.91,11
+77,Ingrid Puganigg,Ingrid Puganigg,,3,,2.67,3
+78,Edwin Ortmann,Edwin Ortmann,,2,1,0.0,0
+79,Sten Nadolny,Sten Nadolny,Literature & Fiction,17,32,3.88,3037
+80,Klaus Merz,Klaus Merz,,25,3,3.23,124
+81,Jürgen Lodemann,Jürgen Lodemann,,16,,3.77,13
+82,Brigitte Kronauer,Brigitte Kronauer,Fiction,40,13,2.86,205
+83,Bodo Kirchhoff,Bodo Kirchhoff,,39,18,3.47,841
+84,Anna Jonas,Anna Jonas,Romance|Historical Fiction,5,1,4.08,78
+85,Margarete Jehn,Margarete Jahn,,2,,0.0,0
+86,Martin Grzimek,Martin Grzimek,,8,1,4.29,17
+87,Henning Grunwald,Henning Grunwald,,3,,0.0,0
+88,Anton Fuchs,Anton Fuchs,,28,,5.0,1
+89,Waltraud Friz,Waltraud Friedrich,,1,,2.0,1
+90,Roderich Feldes,Roderich Feldes,,3,,3.33,3
+91,Hans Drawe,Hans Drawe,,2,,0.0,0
+92,Margrit von Dach,Yla Margrit von Dach,,1,,0.0,0
+93,Hans Christoph Buch,Hans Christoph Buch,Nonfiction|Literature & Fiction,45,2,3.6,73
+94,Margrit Baur,Margrit Baur,,3,,5.0,1
+95,Elisabeth Albertsen,Elisabeth Albertsen,,1,,3.0,1
+96,Ursula Adam,John Joseph Adams,Science Fiction & Fantasy|Horror,297,810,3.95,75489
+97,Maja Beutler,Maja Beutler,,4,,2.33,3
+99,Elisabeth Meylan,Elisabeth Meylan,,5,,0.0,0
+100,Thomas Hürlimann,Thomas Hürlimann,,29,5,3.41,279
+101,Frank-Wolf Matthies,Frank-Wolf Matthies,,3,,0.0,0
+103,Adelheid Duvanel,Adelheid Duvanel,,9,1,3.84,19
+104,Klaus Hoffer,Klaus Hoffer,,15,1,3.29,28
+105,Joseph Zoderer,Joseph Zoderer,,19,1,2.87,60
+106,Gisela Zies,Gisela Riescher,,11,,4.0,3
+107,Pierre Imhasly,Pierre Imhasly,,2,,0.0,0
+108,Andreas Nohl,Andreas Nohl,,44,,3.79,211
+109,Eva Demski,Eva Demski,Home & Garden|Travel|Short Stories,31,1,3.49,80
+110,Christoph Burgauner,Christoph Burgauner,,1,,0.0,0
+111,Margrit Schriber,Margrit Schriber,,13,,3.48,23
+112,Dominik Brun,Brunner Dominik,,3,,0.0,0
+113,Urs Jaeggi,Urs Jaeggi,,7,,3.0,3
+114,Günter Hein,Heinz-Günter Vester,,8,,4.0,8
+116,Elfriede Czurda,Elfriede Czurda,,7,,4.1,10
+117,Ilma Rakusa,Ilma Rakusa,,47,11,3.62,420
+118,Ulrich Schacht,Ulrich Schacht,,27,,2.85,20
+119,Rolf Niederhauser,Rolf Niederhauser,,6,1,3.75,4
+120,Michael Rößner,Michael Rössner,,19,,3.0,1
+122,Pascal Morché,Pascal Morche,,2,,4.2,10
+123,Guntram Vesper,Guntram Vesper,,7,2,3.63,19
+124,Emil Zopfi,Zopfi Emil,,1,,3.33,3
+125,Matthias Zschokke,Matthias Zschokke,,15,6,3.38,56
+126,Michael Zeller,Guillaume Zeller,,8,2,4.25,92
+128,Uwe Wolff,Uwe Wolff,,15,,3.13,8
+129,Johanna Walser,Johanna Walser,Fiction,6,1,3.89,9
+130,Walter Vogl,Stephan Günzel,,9,,4.0,14
+131,Lothar Schöne,Lothar Schöne,,2,,4.0,2
+132,Erasmus Schöfer,Erasmus Schöfer,,8,1,3.0,4
+133,Einar Schleef,Einar Schleef,,22,1,3.75,20
+134,Gerald Szyszkowitz,Gerald Szyszkowitz,,13,,3.8,5
+135,Udo Rabsch,Udo Oskar Rabsch,,3,,3.0,1
+136,Jochen Link,Jochen Link,,4,,2.0,1
+137,Friedrich Wilhelm Korff,Friedrich Wilhelm Korff,,4,,3.22,9
+138,Walter Klier,Walter Klier,,13,,3.67,6
+141,Alfred Gulden,Alfred Gulden,,5,1,4.0,1
+142,Robert Gratzer,Robert Glatzer,,2,,3.21,24
+143,Wolfgang Georg Fischer,Wolfgang Georg Fischer,Art|Fiction,10,1,4.29,201
+144,Ulla Berkéwicz,Ulla Berkéwicz,,9,é,3.35,23
+145,Birgitta Arens,Birgitta Arens,,1,,2.67,3
+146,Jürg Amann,Jürg Amann,,32,3,3.7,169
+147,Eva Maria Alves,Vanessa Oliveira,,11,,4.36,72
+148,Andrea Wolfmayr,Andrea Wolfmayr,,1,,0.0,0
+149,Michael Schneider,Michael S. Schneider,,1,9,4.26,693
+150,Friederike Roth,Friederike Roth,,9,,3.25,12
+151,Uwe Herms,Uwe Herms,,3,1,0.0,0
+152,Karin Reschke,Karin Reschke,,8,,3.33,3
+153,Bettina Blumenberg,Bettina Blumenberg,,12,,3.69,26
+154,Gudrun Brug,Dawn Baumann Brunke,Nonfiction,18,,4.39,112
+155,Jochen Missfeldt,Jochen Missfeldt,,9,2,3.86,21
+156,Bodo Morshäuser,Bodo Morshäuser,,9,,3.6,10
+157,Alban Nikolai Herbst,Alban Nikolai Herbst,Contemporary,11,5,4.0,19
+158,Zsuzsanna Gahse,Zsuzsanna Gahse,,22,,3.72,29
+159,Rainald Goetz,Rainald Goetz,,25,40,3.8,971
+160,Wolfgang Held,Wolfgang Held,,41,,3.51,69
+161,Gerhard Köpf,Gerhard Kopf,,8,,3.32,22
+162,Roland Lang,Roland A. Lange,,3,,3.57,56
+163,Romie Lie,Romie F Littrell,,1,,0.0,0
+164,Lisa Witasek,Lisa Witasek,,6,,1.2,5
+165,Birgit Pausch,Birgit Pausch,,2,,4.0,1
+166,Hansjörg Schertenleib,Hansjörg Schertenleib,,25,3,3.37,290
+167,Martin Mosebach,Martin Mosebach,Literature & Fiction|Religion & Spirituality,49,55,3.66,620
+168,Wolfgang Linder,Kurt Tepperwein,,255,8,3.78,228
+169,Libuše Moníková,Libuše Moníková,,12,íá3,3.96,77
+170,Martin R. Dean,Mike Resnick,Science Fiction & Fantasy|Nonfiction,688,478,3.8,81475
+171,Frank Werner,Frank Werner,,21,,4.22,18
+173,Erich Loest,Erich Loest,,35,1,3.4,92
+174,Gabrielle Weigand,Gabriele Weigand,,11,,3.86,7
+175,Peter Weibel,Peter  Weibel,,1,,4.17,23
+176,Keto von Waberer,Keto von Waberer,,27,1,3.54,180
+177,Ralf Thenior,Ralf Thenior,Young Adult|Children's,15,,2.96,23
+178,Thomas Strittmatter,Thomas Strittmatter,,4,,2.77,13
+179,Harald Strätz,Harald Strutz,,1,,0.0,0
+180,Beat Sterchi,Beat Sterchi,,8,,3.85,65
+181,Kristin T. Schnider,Kristin T. Schnider,,2,1,4.0,1
+182,Eva Schmidt,Heike Eva Schmidt,,13,,3.83,501
+183,Evelyn Schlag,Evelyn Schlag,,11,1,3.46,24
+185,Erica Pedretti,Erica Pedretti,,9,4,3.0,15
+186,Helen Meier,Helen Meier,,5,,4.0,5
+187,Norbert Loacker,Norbert Loacker,,1,,3.5,2
+188,Hans-Jürgen Kühn,D.K.,,1,,3.83,18
+189,Jörg Krichbaum,Jorg Krichbaum,,3,,3.67,3
+190,Marcel Konrad,Marcela Václavková Konrádová,,3,áááá,3.0,3
+191,Michael Köhlmeier,Michael Köhlmeier,Fiction,78,62,3.78,3256
+192,Wolfgang Hegewald,Wolfgang Hegewald,,5,,3.0,2
+193,Josef Haslinger,Josef Haslinger,Fiction|Nonfiction,16,4,3.79,415
+194,Jörg Fauser,Jörg Fauser,Fiction,34,17,3.91,745
+196,Gerd-Peter Eigner,Gerd-Peter Eigner,,5,,4.5,2
+197,Jochen Beyse,Jochen Beyse,,9,,2.5,2
+198,Ginka Steinwachs,Ginka Steinwachs,,6,,4.5,6
+199,Angelika Stark,Angelika Starkl,,1,1,0.0,0
+200,Heinz Stalder,Heinz Stalder,,2,,3.5,2
+201,Joachim Scholz,Joachim Scholz,,8,,3.0,1
+202,Hartmut Riederer,Reinhard P. Gruber,,11,,3.89,63
+205,Linda Pfeiffer,Ingrid Pfeiffer,,28,2,4.29,68
+206,Waltraud Anna Mitgutsch,Waltraud Anna Mitgutsch,,1,,3.0,2
+207,Hans Meyer-Hörstgen,Hans Meyer-Hörstgen,,1,,0.0,0
+208,Birgit Kempker,Birgit Kempker,,9,,4.63,8
+209,Margrit Irgang,Margrit Irgang,,9,1,4.2,15
+210,Gert Heidenreich,Gert Heidenreich,Contemporary|Historical Fiction,68,1,4.11,377
+211,Elfi Hartenstein,Elfi Hartenstein,Fiction|Nonfiction|Translation,11,,3.18,57
+212,Peter Grosz,Stephen Colbert,Humor|Politics|Literature & Fiction,21,1211,3.94,185558
+213,Günther Freitag,Günther Freitag,,1,,4.0,3
+214,Dante Andrea Franzetti,Dante Andrea Franzetti,,6,,4.0,1
+215,Lilian Faschinger,Lilian Faschinger,Fiction|Historical Fiction|Poetry,12,2,3.5,218
+216,Josef Einwanger,Josef Einwanger,,1,,2.0,1
+217,Fritz H. Dinkelmann,Fritz H. Dinkelmann,,2,,2.0,2
+218,Assen Asenov,Assen Assenov,,2,1,4.0,1
+219,Nora Schmitt,Schmitt Nora,,1,,0.0,0
+220,Andreas Reiter,A'ndrea Reiter,,3,'9,2.6,5
+222,Anita Pichler,Anita Pichler,Short Story,5,,4.0,3
+223,Jost Nickel,Jost Nickel,,6,,3.0,3
+224,Henrike Leonhardt,Henrike Leonhardt,,2,,0.0,0
+225,Katja Lange-Müller,Katja Lange-Müller,,13,7,3.4,295
+226,Friederike Kretzen,Friederike Kretzen,,4,,0.0,0
+227,Bettina Klix,Bettina Klix,,2,,0.0,0
+228,Wolfgang Hermann,Jack D. Zipes,Folklore|Fairy Tales|Anthropology,122,168,4.09,28265
+229,Lukas Hammerstein,Lukas Hammerstein,,5,,1.6,5
+230,Daniel Grolle,Daniel Grolle-Moscovici,,6,,0.0,0
+231,Evelyn Grill,Evelyn Grill,Fiction,13,1,3.71,38
+233,Gerhard Falkner,Gerhard Falkner,,26,,3.21,124
+234,Daniela Castner,Daniela Castner,,1,,0.0,0
+236,Thorsten Becker,Thorsten Becker,,17,,3.77,26
+237,Joseph von Westphalen,Joseph von Westphalen,,32,1,3.57,93
+238,Martin Stephan,Stephan Martin,,10,,4.3,40
+239,Manfred Seiler,Heinz Lambertz,,1,,0.0,0
+240,Maria Seidemann,Maria Seidemann,,25,,3.9,87
+241,Uwe Saeger,Uwe Saeger,,10,,2.8,5
+243,Manfred Maurer,Manfred Maurer,,5,,3.5,4
+244,Irina Liebmann,Irina Liebmann,,11,1,3.74,31
+246,Barbara Honigmann,Barbara Honigmann,Fiction,16,5,3.5,272
+247,Paulus Hochgatterer,Paulus Hochgatterer,Literature & Fiction|Short Stories,13,6,3.14,676
+248,Jutta Heinrich,Jutta Heinrich,,6,,2.6,5
+249,Friedrich Hahn,Henry Hazlitt,Business & Investing|Politics,45,274,4.2,16517
+250,Claudia Guderian,Claudia Guderian,,10,1,4.25,8
+251,Werner Fritsch,Werner Fritsch,,10,,4.33,3
+252,Claudia Erdheim,Claudia Erdheim,,8,,2.33,3
+253,Urs Allemann,Urs Allemann,,4,12,3.67,242
+255,Michael Wildenhain,Michael Wildenhain,,20,2,2.78,82
+256,Hans-Eckardt Wenzel,Hans-Eckardt Wenzel,Music|Poetry,9,,4.3,10
+257,Brigitte Struzyk,Brigitte Struzyk,,4,2,3.0,2
+258,Flavio Steimann,Flavio Steimann,,1,,4.0,5
+259,Elisabeth Reichart,Elisabeth Reichart,,14,,3.57,47
+260,Angela Praesent,E.L. Doctorow,Literature & Fiction,77,883,3.79,122737
+261,Andreas Neumeister,Andreas Neumeister,,10,,3.61,28
+262,Klaus Modick,Klaus Modick,,62,14,3.72,621
+263,Jochen Langer,Jochen Langer,,1,,0.0,0
+264,Angela Krauß,Angela Krauß,,11,2,3.27,15
+265,Christoph Keller,Christoph Keller,,62,1,3.86,111
+267,Peter Haffner,Sebastian Haffner,Biographies & Memoirs|War Memoirs,29,88,4.22,5407
+268,Anselm Glück,Anselm Glück,,2,,0.0,0
+269,Bernhard Gierds,Bernhard Giersche,,8,,4.43,21
+270,Hartmut Geerken,Sun Ra,,7,15,4.09,191
+271,Günter Franzen,Günter Franzen,,3,,3.0,1
+272,Wolfgang de Bruyn,Ibon Zubiaur,,12,,3.72,113
+273,Rudolf Brun,Rudolf B. Brun,,2,,5.0,1
+274,Sylvia Brandis,Sylvia Brandis,,1,,0.0,0
+275,Natascha Wodin,Natascha Wodin,,15,15,4.0,375
+276,Bruno Steiger,Bruno Steiger,,2,,4.0,1
+277,Split ,C.S. Splitter,Mystery & Thrillers|Literature & Fiction|Humor,6,28,3.92,112
+278,Alois Schöpf,Alois Schöpf,,2,,0.0,0
+279,Bernd Schirmer,Bernd Schirmer,,10,,3.75,12
+280,Gernot Ragger,Gernot Ragger,,4,,3.0,1
+281,Sabine Peters,"Anna Breitsameter, Sabine Glas-Peters and Angela Pude",,1,,5.0,1
+282,Franz Meisl,Franz Moisl,,2,,2.0,1
+283,Peter Kurzeck,Peter Kurzeck,,22,6,4.42,120
+284,Angelika Klüssendorf,Angelika Klüssendorf,,8,3,3.66,495
+286,Wolfgang Hilbig,Wolfgang Hilbig,Contemporary|Poetry,24,17,3.77,590
+287,Thomas Hettche,Thomas Hettche,Literature & Fiction,20,2,3.33,594
+288,Kerstin Hensel,Kerstin Hensel,,20,1,3.19,118
+289,Eberhard Häfner,Eberhard Häfner,,2,,0.0,0
+290,Norbert Gstrein,Norbert Gstrein,,20,4,3.05,328
+291,Martin Ahrends,Martin Ahrends,,8,3,4.0,2
+292,Birgit Vanderbeke,Birgit Vanderbeke,,23,27,3.53,2117
+293,Stefan Tomas,Ion Baciu,,2,,3.71,7
+294,Alain Claude Sulzer,Alain Claude Sulzer,Literature & Fiction|Short Stories|Gay & Lesbian,14,11,3.62,809
+295,W. G. Sebald,W.G. Sebald,Biography|Memoir|Historical Fiction,42,1067,4.11,41179
+296,Margit Schreiner,Margit Schreiner,,15,4,3.34,169
+297,Susanne Röckel,Susanne Röckel,,25,3,3.71,227
+298,Berndt Rieger,Berndt Rieger,,158,,3.38,74
+299,Christa Moog,Christa Moog,,1,,0.0,0
+300,Andreas Montag,Andreas Montag,,1,,0.0,0
+301,Erich Möchel,Erich Möchel,,2,,4.5,2
+302,Cornelia Manikowsky,Cornelia Manikowsky,,2,,0.0,0
+303,Fritz-Jochen Kopka,Jutta Voigt,,16,,3.7,20
+304,Reinhard Jirgl,Reinhard Jirgl,,14,5,3.64,89
+305,Franz Hodjak,Franz Hodjak,,8,,3.63,16
+306,Ingeborg Harms,Ingeborg Harms,,3,,1.0,1
+307,Eleonore Frey,Eleonore Frey,,11,,4.17,6
+308,Hubert Konrad Frank,Jürgen Ferdinand Riemann,,3,,5.0,1
+310,Georg Bydlinski,Georg Bydlinski,,19,1,3.97,73
+311,Christoph Buggert,Christoph Buggert,,4,,0.0,0
+312,Pieke Biermann,Pieke Biermann,,34,,3.89,733
+313,Peter Wawerzinek,Peter Wawerzinek,,15,4,3.37,101
+314,Ludger Schwarte,Ludger Schwarte,,19,,3.33,6
+315,SAID ,Edward W. Said,Nonfiction,146,2365,4.11,52069
+316,Theres Roth-Hunkeler,Theres Roth-Hunkeler,,1,,0.0,0
+317,Matthias Politycki,Matthias Politycki,,29,6,3.54,339
+318,Emine Sevgi Özdamar,Emine Sevgi Özdamar,,16,39,3.61,794
+319,Wolfgang Mörth,Wolfgang Forth,,2,,3.75,4
+320,Francesco Micieli,Francesco Micieli,,7,1,3.0,9
+322,Ulrike Längle,Ulrike Längle,,4,,0.0,0
+323,Sabine Küchler,Sabine Küchler,,1,,3.33,3
+324,Judith Kuckart,Judith Kuckart,,18,2,2.96,116
+325,Roland Koch,Roland E. Koch,Fiction|Nonfiction,15,1,3.47,15
+326,Durs Grünbein,Durs Grünbein,Poetry|Philosophy,66,12,3.9,237
+327,Walter Gnelli,walter anelli,,1,,0.0,0
+328,Hella Eckert,Hella Eckert,Fiction,3,,3.2,5
+329,Michael Eberth,Michael Eberth,,1,,4.0,1
+330,Marcel Beyer,Marcel Beyer,,27,6,3.68,709
+331,Gabrielle Alioth,Gabrielle Alioth,,20,1,3.41,37
+332,Kurt Aebli,Kurt Aebli,,3,,0.0,0
+333,Alissa Walser,Alissa Walser,Fiction,25,2,3.45,353
+334,Burkhard Spinnen,Burkhard Spinnen,,25,2,3.7,231
+335,Sabine Scholl,Sabine Scholl,,14,,4.0,17
+336,Ulrich Peltzer,Ulrich Peltzer,,11,3,3.13,136
+337,Roger Lille,Marcel Felder,,1,,0.0,0
+338,Fritz Krenn,Fritz Koenn,,1,,3.0,1
+339,Jan Koneffke,Jan Koneffke,,16,1,4.02,110
+340,Christoph Janacs,Christoph Janacs,,5,,3.0,4
+341,Alois Hotschnig,Alois Hotschnig,,10,7,3.39,319
+342,Ulrich Holbein,Ulrich Holbein,,21,1,3.3,10
+343,Wolfgang Herrmann,Stephen King,Horror|Mystery|Literature & Fiction,"1,691",730860,4.04,14264850
+344,Christa Hein,"Autori Vari: Bohumil Hrabal,  Péter Esterházy,  Kazimierz Brandys,  Christoph Hein, Christa Wolf",,1,:éá,3.0,2
+345,Lioba Happel,Lioba Happel,,3,,3.6,5
+346,Manfred Flügge,Manfred Flügge,,18,1,3.44,39
+347,Bianca Döring,Bianca Döring,,5,,2.5,2
+348,Nobert Bleisch,Norbert Bleisch,,2,,3.0,1
+349,Friedrich Ani,Friedrich Ani,Crime|Thriller,80,19,3.27,1288
+350,Christina Viragh,Christina Viragh,,22,,3.89,563
+351,Hans-Ulrich Treichel,Hans-Ulrich Treichel,,30,10,3.33,730
+352,Wilfried Steiner,Wilfried Steiner,,8,,3.52,21
+353,Benjamin Stein,Benjamin Stein,,16,4,3.78,310
+354,Dirk von Petersdorff,Dirk von Petersdorff,,14,,3.58,12
+355,Thomas Lehr,Thomas Lehr,Literature & Fiction,11,4,3.34,230
+356,Ludwig Laher,Ludwig Laher,,13,1,3.65,48
+357,Helmut Krausser,Helmut Krausser,Literature & Fiction|Poetry,63,32,3.72,1137
+358,Gabriele Kögl,Gabriele Kögl,,5,,3.13,8
+359,Michael Kleeberg,Michael Kleeberg,,29,2,3.55,265
+360,Sandra Kellein,Sandra Kellein,,1,,0.0,0
+361,Reinhard Kaiser,Reinhard Kaiser-Mühlecker,Literature & Fiction,9,4,3.43,95
+362,Rudolf Habringer,Rudolf Habringer,,7,,2.5,2
+363,Christina Günther,Christina Günther,,1,,0.0,0
+364,Sabine Gruber,Sabine Gruber,,24,2,3.26,112
+365,Susanne Geiger,Susanne Geiger,,5,,4.83,6
+366,Kurt Drawert,Kurt Drawert,,21,,3.0,10
+367,Jan Peter Bremer,Jan Peter Bremer,,8,1,2.9,81
+368,Dirk Brauns,Dirk Brauns,,5,,3.0,32
+369,Matthias Altenburg,Matthias Altenburg,Literature & Fiction|Mystery & Thrillers,6,1,3.9,20
+371,Bernd Wagner,Bernd Wagner,,40,,3.42,24
+372,Andrea Simmen,Paul Morabito,Fantasy|Thriller|Horror,13,112,4.4,142
+373,Ruth Schweikert,Ruth Schweikert,,9,,3.55,62
+374,Frank Schulz,Frank Schulz,,21,3,3.84,250
+375,Raoul Schrott,Raoul Schrott,,39,8,3.67,215
+376,Kathrin Röggla,Kathrin Röggla,Literature & Fiction,20,4,2.97,207
+377,Georg Ringsgwandl,Georg Ringsgwandl,,2,,3.0,12
+378,Katharina Riese,Meike Lauggas,,1,1,5.0,1
+379,Urs Richle,Urs Richle,,24,,3.47,19
+380,Doron Rabinovici,Doron Rabinovici,Fiction|Nonfiction|History,19,11,3.62,225
+381,Heidi von Plato,Heidi von Plato,,1,1,4.0,1
+382,Sibylle Mulot,Sibylle Mulot,,18,,3.56,1121
+383,Stefanie Menzinger,Stefanie Menzinger,,2,,0.0,0
+384,Dagmar Leupold,Dagmar Leupold,Contemporary,15,1,3.2,89
+386,Bernd Cailloux,Bernd Cailloux,,8,2,3.62,34
+388,Monika Wogrolly,Monika Wogrolly,,3,,2.0,4
+389,Wolfgang Wenger,Wolfgang Wenger,,3,,3.0,1
+390,Ilija Trojanow,Ilija Trojanow,Literature & Fiction|Travel|Science Fiction,56,76,3.54,2480
+391,Marion Titze,Marion Titze,,1,,0.0,0
+392,Ingo Schulze,Ingo Schulze,,43,25,3.31,1512
+393,Georg Pichler,Ilsa Barea-Kulcsar,,1,,3.4,73
+394,Georg Martin Oswald,Françoise Choay,Architecture and Urbanism|Art|Philosophy,25,ç10,3.9,250
+395,Petra Morsbach,Petra Morsbach,,15,2,3.71,162
+396,Perikles Monioudis,Perikles Monioudis,,12,2,3.8,30
+397,Mariella Mehr,Mariella Mehr,,11,3,3.31,35
+398,Ulrike Kolb,Ulrike Kolb,,10,,3.0,26
+399,Radek Knapp,Radek Knapp,,13,4,3.49,436
+400,Volker Kaminski,Volker Kaminski,,4,,0.0,0
+401,Joachim Helfer,Joachim Helfer,,6,2,3.13,31
+402,Klaus Händl,Klaus Händl,,4,,3.0,1
+403,Franzobel ,Franzobel,,37,11,3.83,525
+404,Gundi Feyrer,Gundi Feyrer,,3,,0.0,0
+405,Enrico Danieli,Enrico Danieli,,5,,0.0,0
+408,Sissi Tax,Sissi Tax,,4,,4.33,3
+409,Yoko Tawada,Yōko Tawada,Fiction,81,ō306,3.56,8560
+410,Ingo Schramm,Ingo Plag,,11,2,3.92,99
+411,Sonja Ruf,Sonja Ruf,,2,,3.0,3
+412,Sonja Röder,Lucy Jane Bledsoe,Fiction|Nonfiction|Children's,48,,3.88,2648
+413,Richard Obermayr,Richard Obermayr,,2,,4.29,7
+415,Lydia Mischkulnig,Lydia Mischkulnig,,11,2,3.74,117
+416,Herbert Maurer,Herbert Maurer,,8,,0.0,0
+417,Andreas Mand,Andreas Mand,,10,1,3.33,12
+418,Johannes Jansen,Johannes Jansen,,16,1,3.79,24
+419,Felicitas Hoppe,Felicitas Hoppe,,29,11,3.14,362
+420,Peter Henning,Peter Henning,,18,,3.1,78
+421,Heiko Michael Hartmann,Heiko Michael Hartmann,,2,2,2.5,6
+422,Arno Geiger,Arno Geiger,,17,61,3.83,3233
+423,Adelheid Dahimène,Adelheid Dahimène,,4,è1,3.71,7
+424,Jürg Beeler,Jürg Beeler,,6,,2.0,2
+425,Ulrich Zieger,Ulrich Zieger,,7,,3.53,15
+426,Thorsten Tornow,Thorsten Tornow,,2,,3.0,1
+428,Wolfgang Schlüter,Wolfgang Schlüter,,19,1,3.81,16
+429,Norbert Niemann,Norbert Niemann,,7,1,2.89,27
+430,Thomas Meinecke,Thomas Meinecke,Literature & Fiction|Women & Gender Studies,26,11,3.43,267
+431,Gila Lustiger,Gila Lustiger,,11,3,3.63,134
+432,Tim Krohn,Tim Krohn,,21,6,3.79,351
+433,Steffen Kopetzky,Steffen Kopetzky,,11,3,3.96,233
+434,Zoë Jenny,Zoë Jenny,Literature & Fiction,19,ë4,2.85,639
+435,Bettina Galvagni,Bettina Galvagni,,4,,4.0,8
+436,Leopold Federmair,Michel Houellebecq,Fiction|Nonfiction|Poetry,55,4743,3.73,137174
+437,Gion Mathias Cavelty,Gion Mathias Cavelty,,8,,3.12,51
+438,Marcus Braun,Marcus Braun,,8,4,3.65,17
+439,Jan Lurvink,Jan Lurvink,,2,,4.0,1
+440,Christian Futscher,Christian Futscher,,2,,4.0,1
+441,Christian Paul Berger,Christian-Paul Berger,,1,,0.0,0
+442,Inka Bach,Inka Mülder-Bach,,6,,3.5,8
+443,Olivia Kleinknecht,Olivia Kleinknecht,Contemporary|Crime|Ebooks,9,,3.0,9
+444,Sibylle Lewitscharoff,Sibylle Lewitscharoff,Nonfiction,23,10,3.25,446
+445,Kathrin Schmidt,Kathrin Schmidt,,18,4,3.15,203
+446,Kurt Bracharz,Kurt Bracharz,,18,1,3.5,38
+447,Leander Scholz,Leander Scholz,,14,,3.89,9
+448,Tim Staffel,Tim Staffel,,6,,3.32,34
+449,John von Düffel,John von Düffel,,29,5,3.58,368
+450,Silvia Szymanski,Silvia Szymanski,,5,,2.67,9
+451,Ralf Bönt,Ralf Bönt,,6,2,2.91,44
+452,Sibylle Severus,Sibylle Severus,,1,,0.0,0
+453,Michael Lentz,Michael Lentz,,22,,3.57,58
+454,Christian Mähr,Christian Mähr,,18,2,3.28,79
+455,Aglaja Veteranyi,Aglaja Veteranyi,Literature & Fiction|Short Stories|Biographies & Memoirs,11,43,4.01,2060
+456,Stefan Beuse,Stefan Beuse,,15,1,3.92,151
+457,Peter Stamm,Peter Stamm,Literature & Fiction|Professional & Technical,39,239,3.41,8725
+458,Thor Kunkel,Thor Kunkel,Fiction,15,1,3.62,86
+459,Ursula Fricker,Ursula Fricker,,6,,2.83,12
+460,Ruth Erat,Ruth Erat,,1,,0.0,0
+461,Terézia Mora,Terézia Mora,,23,é19,3.72,690
+462,Thomas Jonigk,Thomas Jonigk,,5,,3.07,14
+463,Monika Helfer,Monika Helfer,,20,3,3.73,245
+464,Vladimir Vertlib,Vladimir Vertlib,,12,2,3.64,140
+465,Gudrun Seidenauer,Gudrun Seidenauer,,4,12,3.85,13
+466,Christian Uetz,Christian Uetz,,7,,3.0,2
+467,Patricia Görg,Patricia Görg,,6,,5.0,1
+468,Thomas Kapielski,Thomas Kapielski,,22,1,4.06,100
+469,Katharina Hacker,Katharina Hacker,,15,4,2.82,308
+470,Ulrike Draesner,Ulrike Draesner,,40,3,3.5,145
+472,Stephan Reimertz,Stephan Reimertz,,13,,3.6,25
+473,Susanne Riedel,Susanne Riedel,,6,,3.5,6
+475,Andreas Maier,Andrea Mays,,1,10,3.93,816
+476,Martin Amanshauser,Martin Amanshauser,,12,1,3.21,34
+477,Georg Klein,Georg Klein,,26,8,3.69,274
+478,Stephan Alfare,Stephan Alfare,,2,1,0.0,0
+479,Birgit Müller-Wieland,Birgit Müller-Wieland,,3,1,2.94,16
+480,Malin Schwerdtfeger,Malin Schwerdtfeger,,8,1,4.1,125
+481,Julia Franck,Julia Franck,Literature & Fiction,13,33,3.37,2243
+482,Daniel Goetsch,Daniel Goetsch,,4,1,3.0,5
+483,David Wagner,Doug Moench,Comics & Graphic Novels,"1,070",73,3.91,67949
+484,Rainer Merkel,Rainer Merkel,,9,1,3.02,62
+485,Philipp Tingler,Philipp Tingler,Philosophy,15,3,3.14,94
+486,Artur Becker,Artur Becker,,15,,3.0,30
+487,Katrin Askan,Katrin Askan,,7,,2.67,9
+488,Ulrich Schlotmann,Ulrich Schlotmann,,2,,0.0,0
+489,Jenny Erpenbeck,Jenny Erpenbeck,Literature & Fiction|Historical Fiction|Short Stories,23,363,3.87,11424
+490,Robert Fischer,Dōgen,Religion & Spirituality|Philosophy,54,ō153,4.28,2861
+491,Tanja Langer,Tanja Langer,,12,1,3.64,42
+492,Annegret Held,Annegret Held,,8,3,3.4,30
+493,Brigitte Schär,Brigitte Schär,,11,,3.63,24
+494,Ute-Christine Krupp,Ute-Christine Krupp,,2,,2.0,1
+495,Norbert Müller,Norbert Müller,,34,,3.43,7
+496,Antje Rávic Strubel,Antje Rávic Strubel,Contemporary|Fiction,29,á6,3.62,608
+497,Heiner Link,Heiner Link,,4,,2.7,10
+498,Raphael Urweider,Raphael Urweider,,8,1,3.88,34
+499,Melanie Arns,Melanie Arns,,3,,2.33,3
+500,Helga Glantschnig,Helga Glantschnig,,4,,3.0,1
+501,Elfriede Kern,Elfriede Kern,,1,,4.5,2
+502,Annette Pehnt,Annette Pehnt,,29,2,3.34,290
+503,Norbert Zähringer,Norbert Zähringer,,5,,3.7,54
+504,Roger Monnerat,Roger Monnerat,,10,,0.0,0
+505,Daniel Zahno,Daniel Zahno,,7,2,3.69,61
+506,Christoph W. Bauer,Christoph W. Bauer,,18,,3.93,14
+507,Peter Glaser,Susan R. Glaser,,5,,3.87,54
+508,Mirko Bonné,Mirko Bonné,Historical Fiction,23,é6,3.57,243
+509,Lukas Bärfuss,Lukas Bärfuss,,26,37,3.54,1191
+510,Heinz D. Heisl,Heinz D. Heisl,,1,,0.0,0
+511,Markus Ramseier,Markus Ramseier,,13,,2.75,4
+512,Nina Jäckle,Nina Jäckle,,8,,3.48,29
+513,Jörg Matheis,Jörg Matheis,,2,,1.67,3
+514,Oswald Egger,Oswald Egger,,11,,3.53,15
+515,Inka Parei,Inka Parei,,3,2,3.06,120
+516,Christof Hamann,Christof Hamann,,11,,2.71,14
+517,Olga Flor,Olga Flor,,6,,2.93,29
+518,Gregor Hens,Gregor Hens,,25,7,3.62,555
+519,Kristof Schreuf,Peter Feierabend,,30,1,4.27,74
+520,Michael Stauffer,Mina Carter,Romance|Science Fiction|Paranormal,199,1877,3.99,83238
+521,Feridun Zaimoglu,Feridun Zaimoglu,Literature & Fiction|Poetry,31,27,3.18,549
+522,Sünje Lewejohann,Katharina Adler,,5,4,3.61,153
+523,Ulla Lenze,Ulla Lenze,,7,2,3.7,89
+524,Henning Ahrens,Leigh Bardugo,Young Adult|Science Fiction & Fantasy|Historical Fiction,56,65656,4.21,1327503
+525,Susanne Fischer,Susanne Fischer-Rizzi,,15,4,4.17,144
+526,Katrin de Vries,Katrin de Vries,Literature & Fiction|Comics & Graphic Novels,6,,4.12,41
+527,Christine Rinderknecht,Christine Rinderknecht,,2,,4.0,3
+528,Christina Griebel,Christina Griebel,,4,,2.0,5
+529,Farhad Showghi,Farhad Showghi,,2,,3.67,3
+530,Bettina Balàka,Bettina Balàka,,12,à5,3.73,121
+531,Guy Helminger,Guy Helminger,,11,8,3.15,60
+532,Roswitha Haring,Roswitha Haring,,3,6,2.71,7
+533,Arne Roß,Ross H. Arnett Jr.,,15,1,4.41,49
+534,Melinda Nadj Abonji,Melinda Nadj Abonji,,4,13,3.65,626
+535,Uwe Tellkamp,Uwe Tellkamp,,13,14,3.54,850
+536,Andreas Münzner,Andreas Münzner,,5,,3.9,10
+537,Richard David Precht,Richard David Precht,Fiction|Nonfiction|Philosophy,25,242,3.85,5784
+538,Thomas Raab,Thomas Raab,Mystery & Thrillers,22,14,3.65,985
+539,Rolf Schönlau,Rolf Schönlau,,5,2,2.75,4
+540,Sandra Hoffmann,Sandra Kasturi,,36,64,3.79,1373
+541,Simona Sabato,"Antonin Artaud, Jörg Graser, Kai Hensel, Fritz Kater, Simona Sabato, Peter Turrini",,1,2,2.5,2
+542,Dorothea Dieckmann,Dorothea Dieckmann,,8,,2.92,50
+543,Juli Zeh,Juli Zeh,,35,471,3.76,17507
+544,Wolfgang Herrndorf,Wolfgang Herrndorf,,18,160,3.85,19276
+545,Anna Katharina Hahn,Anna Katharina Hahn,,9,4,3.49,231
+546,Eva von Schirach,Jörg Sundermeier,,15,,3.25,20
+547,Sabine Schiffner,Sabine Schiffner,,3,,2.75,4
+548,Thomas Lang,Lewis Carroll,Children's|Poetry|Fiction,"1,979",6712,4.06,1297710
+549,Klaus Böldl,Klaus Böldl,,22,,3.5,48
+550,Anna Kim,Stacey Hatton,Humor and Comedy|Chick Lit|Fiction,5,,3.81,2571
+551,Anne Weber,Alain LeRoy Locke,,14,31,4.09,805
+552,Barbara Bongartz,Barbara Bongartz,,7,2,2.62,21
+553,Gerhild Steinbuch,Mirjam Aggeler,,1,,0.0,0
+554,Martina Hefter,Martina Hefter,,5,4,3.67,3
+555,Christoph Simon,Christoph Simon,,21,1,3.64,162
+556,Natalie Balkow,Jörn Morisse,,6,,3.3,23
+557,Helmut Kuhn,Helmut Kuhn,,21,1,3.74,69
+558,Kristof Magnusson,Kristof Magnusson,,24,7,3.63,728
+559,Saša Stanišić,Saša Stanišić,Humor and Comedy|Paranormal|Fiction,7,606,4.02,5427
+560,Susanne Heinrich,Susanne Heinrich,,9,1,3.35,17
+561,Julia Schoch,Julia Schoch,,18,1,3.57,214
+562,Nikolai Vogel,Marvin Kaye,Science Fiction & Fantasy|Horror|Mystery & Thrillers,130,68,3.94,6516
+564,Kai Weyand,Kai Weyand,,6,,3.42,67
+565,Kathrin Passig,Kathrin Passig,Nonfiction,40,,3.79,829
+566,Katja Huber,Katja Huber,,6,,4.2,25
+567,Norbert Scheuer,Norbert Scheuer,,9,2,3.73,313
+568,Hanno Millesi,Hanno Millesi,,9,,3.06,16
+569,Annette Mingels,Annette Mingels,,10,1,3.46,39
+570,Paul Brodowsky,Paul Brodowsky,,6,,3.41,22
+571,Thomas Melle,Thomas Melle,,14,14,3.8,761
+572,Claudia Klischat,Claudia Klischat,,1,1,1.0,1
+573,Andreas Merkel,Andreas Merkel,,2,,2.25,4
+574,Kevin Vennemann,Kevin Vennemann,,11,,3.79,450
+575,Angelika Overath,Angelika Overath,Contemporary,19,3,3.38,120
+576,Clemens Meyer,Clemens Meyer,Literature & Fiction|Short Stories|Contemporary,12,41,3.72,1184
+577,Silvio Huonder,Silvio Huonder,,7,,3.31,35
+578,Bodo Hell,Bodo Hell,,5,,3.0,2
+579,Sigrid Behrens,Sigrid Behrens,,6,,3.5,12
+580,Martin Becker,Margot Becker R.,,1,2,3.61,83
+581,Thomas Stangl,Thomas Stangl,,12,1,3.32,34
+582,Björn Kern,Björn Kern,,10,1,3.4,75
+583,Jan Böttcher,Jan Böttcher,,8,2,3.2,80
+584,PeterLicht ,PeterLicht,,3,1,3.87,52
+585,Kurt Oesterle,Kurt Oesterle,,9,,3.41,17
+586,Milena Oda,Milena Oda,,3,1,5.0,1
+587,Michael Stavaric,Michael Stavaric,,23,5,3.55,145
+588,Dieter Zwicky,Dieter Zwicky,,1,,1.0,1
+589,Ronald Reng,Ronald Reng,Biography|Sports|Memoir,17,30,4.38,3398
+590,Silke Scheuermann,Silke Scheuermann,,17,2,3.21,261
+591,Lutz Seiler,Lutz Seiler,Poetry|Contemporary|Fiction,19,17,3.35,675
+592,Fridolin Schley,Fridolin Schley,,6,,3.38,13
+593,Jörg Albrecht,Jörg Albrecht,,18,1,3.18,51
+594,Andrea Grill,Andrea Grill,,10,1,3.44,62
+595,Jochen Schmidt,Jochen Schmidt,Contemporary,88,6,3.7,347
+596,Christian Bernhardt,Doris Christian-Bernhardt,,1,,5.0,1
+597,Jagoda Marinić,Jagoda Marinić,,10,1,3.07,97
+598,Anette Selg,Denis Diderot,Philosophy|Fiction|Social Sciences,493,379,3.71,17992
+599,Tilman Rammstedt,Tilman Rammstedt,,9,8,3.42,484
+600,Ulf Erdmann Ziegler,Ulf Erdmann Ziegler,,16,,3.62,78
+601,Pedro Lenz,Pedro Lenz,Fiction,24,13,3.88,382
+602,Dagrun Hintze,Dagrun Hintze,,2,,3.0,3
+603,Sudabeh Mohafez,Sudabeh Mohafez,Contemporary,10,1,3.83,64
+604,Heike Geißler,Heike Geissler,,4,10,3.78,369
+605,Markus Orths,Markus Orths,Literature & Fiction|Historical Fiction,26,6,3.42,821
+606,Patrick Findeis,Patrick Findeis,,5,1,2.75,4
+607,Martin von Arndt,Michelle Tea,Literature & Fiction|Biographies & Memoirs|Gay & Lesbian,38,736,3.8,21359
+608,Angelika Reitzer,Angelika Reitzer,,7,1,3.33,15
+609,Clemens J. Setz,Clemens J. Setz,Fiction,24,52,3.6,926
+610,Alina Bronsky,Alina Bronsky,Literature & Fiction,15,147,3.71,6377
+611,Thorsten Palzhoff,Thorsten Palzhoff,,2,,4.0,1
+613,Katharina Born,Katharina Born,,3,,3.47,15
+614,Andrea Winkler,Rainer Maria Rilke,Poetry|Literature & Fiction,768,3837,4.29,102550
+615,Gregor Sander,Gregor Sander,,8,1,3.56,98
+616,Andreas Schäfer,Andreas Schäfer,,20,1,3.4,50
+617,Jens Petersen,Jens H. Petersen,,10,1,4.43,70
+618,Karl-Gustav Ruch,Karl-Gustav Ruch,,1,,0.0,0
+619,Linda Stift,Linda Stift,,6,1,3.49,134
+620,Christiane Neudecker,Christiane Neudecker,,9,1,3.9,90
+621,Bruno Preisendörfer,Bruno Preisendörfer,,10,3,3.53,124
+622,Karsten Krampitz,Karsten Krampitz,,14,1,3.0,17
+623,Philipp Weiss,Philipp Weiss,,7,5,4.46,50
+624,Lorenz Langenegger,Lorenz Langenegger,,5,1,3.15,13
+625,Verena Rossbacher,Verena Roßbacher,,4,2,3.62,53
+626,Christian Fries,Christian Fries,,4,,3.6,5
+627,Iris Schmidt,Iris Schmidt,,7,,3.0,2
+628,Josef Kleindienst,Josef Kleindienst,,4,5,0.0,0
+629,Judith Zander,Judith Zander,Poetry,7,2,3.65,75
+630,Aleks Scholz,Kathrin Passig & Aleks Scholz,,1,&,2.95,20
+631,Max Scharnigg,Max Scharnigg,,14,3,3.79,136
+632,Thomas Ballhausen,Thomas Ballhausen,,28,,3.7,54
+633,Dorothee Elmiger,Dorothee Elmiger,Fiction,4,10,3.24,171
+634,Daniel Mezger,Daniel Mezger,,4,,3.44,9
+635,Christopher Kloeble,Christopher Kloeble,,8,5,3.61,238
+636,Volker H. Altwasser,Volker H. Altwasser,,3,,1.5,2
+637,Sabrina Janesch,Sabrina Janesch,,4,9,3.82,256
+638,Thomas Klupp,Thomas Klupp,Fiction,6,2,3.24,182
+639,Michel Božiković,Michel Bozikovic,,2,13,3.0,6
+640,Anne Richter,Ann VanderMeer,Science Fiction|Fantasy|Horror,54,166,3.8,11639
+641,Leif Randt,Leif Randt,,7,27,3.62,915
+642,Steffen Popp,Steffen Popp,,10,,3.44,32
+643,Nina Bußmann,Nina Bußmann,,4,,2.91,23
+644,Julya Rabinowich,Julya Rabinowich,,11,4,3.39,291
+645,Maja Haderlap,Maja Haderlap,Biographies & Memoirs|Poetry|Fiction,3,17,3.83,545
+646,Linus Reichlin,Linus Reichlin,,12,,3.41,212
+647,Antonia Baum,Antonia Baum,,5,1,3.44,168
+649,Daniel Wisser,Daniel Wisser,,7,4,4.13,104
+650,Maximilian Steinbeis,Per Leo,History,3,2,3.19,125
+651,Gunther Geltinger,Gunther Geltinger,,5,2,3.51,65
+652,Isabella Feimer,Isabella Feimer,,6,1,3.0,8
+653,Matthias Senkel,Matthias Senkel,,3,4,3.1,51
+654,Matthias Nawrat,Matthias Nawrat,,7,5,3.42,114
+655,Simon Froehling,Simon Froehling,,2,2,3.63,8
+656,Lisa Kränzler,Lisa Kränzler,,7,4,3.54,104
+657,Olga Martynova,Olga Martynova,,14,1,3.59,74
+658,Cornelia Travnicek,Cornelia Travnicek,Literature & Fiction|Poetry,12,13,3.48,255
+659,Inger-Maria Mahlke,Inger-Maria Mahlke,,6,5,3.17,260
+660,Sabine Hassinger,Annette Kuhn,,35,6,3.85,269
+661,Andreas Stichmann,Andreas Stichmann,,4,1,3.28,68
+662,Mirjam Richner,Mirjam Richner,,2,,0.0,0
+663,Hugo Ramnek,Hugo Ramnek,,1,,3.67,3
+664,Stefan Moster,Stefan Moster,,69,,3.39,464
+665,Nikola Anne Mehlhorn,Nikola Anne Mehlhorn,,3,,4.2,5
+666,Benjamin Maack,Benjamin Maack,Humor and Comedy|Contemporary,5,2,3.91,117
+667,Roman Ehrlich,Roman Ehrlich,Fiction,5,2,3.4,83
+668,Hannah Dübgen,Hannah Dübgen,,2,,3.4,63
+669,Katja Petrowskaja,Katja Petrowskaja,,6,44,3.81,931
+670,Philipp Schönthaler,Philipp Schonthaler,,3,,3.67,6
+671,Heinz Helle,Heinz Helle,,4,10,3.42,403
+672,Cordula Simon,Cordula Simon,,6,1,3.12,17
+673,Zé do Rock,Zé do Rock,,9,é1,3.52,29
+674,Anousch Mueller,Anousch Mueller,,2,,3.83,18
+675,Verena Güntner,Verena Güntner,,2,,3.13,105
+676,Nadine Kegele,Nadine Kegele,,6,3,4.19,26
+677,Joachim Meyerhoff,Joachim Meyerhoff,,5,124,4.06,5745
+678,Larissa Boehning,Larissa Boehning,Literature & Fiction,7,1,3.33,39
+679,Georg Petz,Georg Petz,,2,,0.0,0
+680,Tex Rubinowitz,Tex Rubinowitz,,24,6,4.32,1885
+681,Katharina Gericke,Katarina Gericke,,1,,4.0,1
+682,Romana Ganzoni,Romana Ganzoni,,3,,3.0,7
+683,Michael Fehr,Michael Fehr,,15,1,3.93,86
+684,Senthuran Varatharajah,Senthuran Varatharajah,,3,8,3.81,64
+685,Birgit Pölzl,Birgit Pollmann,,1,,0.0,0
+687,Gertraud Klemm,Gertraud Klemm,Fiction,5,7,3.78,180
+688,Tobias Sommer,Tobias Sommer,,5,2,3.25,4
+689,Kerstin Preiwuß,Kerstin Preiwuß,,7,3,3.52,44
+690,Roman Marchel,Roman Marchel,,1,,3.67,9
+691,Dana Grigorcea,Dana Grigorcea,,3,4,3.23,95
+692,Teresa Präauer,Teresa Präauer,,6,2,3.33,198
+693,Anna Baar,Anna Baar,,2,,4.0,10
+694,Jürg Halter,Jürg Halter,Poetry,9,1,3.26,31
+695,Ronja von Rönne,Ronja von Rönne,,2,21,3.15,526
+696,Monique Schwitter,Monique Schwitter,,7,4,3.17,185
+697,FALKNER ,Tammy Falkner,Romance|Paranormal,38,3129,4.22,118829
+698,Peter Truschner,Peter Truschner,,6,,2.62,13
+699,Valerie Fritsch,Valerie Fritsch,,7,4,3.54,213
+700,Sven Recker,Sven Recker,,3,,3.5,2
+701,Saskia Hennig von Lange,Saskia Hennig von Lange,,4,2,3.58,36
+702,Nora Gomringer,Nora Gomringer,Poetry,26,6,3.83,144
+703,Katerina Poladjan,Katerina Poladjan,,5,1,3.74,124
+704,Astrid Sozio,Astrid Sozio,,1,,3.0,4
+705,Sharon Dodua Otoo,Sharon Dodua Otoo,Fiction,9,13,4.47,771
+706,Ada Dorian,Ada Dorian,,5,,3.63,149
+707,Sylvie Schenk,Sylvie Schenk,,14,1,3.61,218
+708,Tomer Gardi,Tomer Gardi,,4,1,3.67,24
+709,Isabelle Lehn,Isabelle Lehn,,3,1,3.92,59
+710,Jan Snela,Jan Snela,,1,,4.33,6
+711,Julia Wolf,Julia  Wolf,Romance|Contemporary,21,349,4.4,6271
+712,Selim Özdoğan,Selim Özdogan,,34,19,3.88,518
+713,Bastian Schneider,James Tiptree Jr.,Science Fiction,216,377,4.03,21405
+714,Marko Dinić,Marko Dinić,,1,,3.69,49
+715,Sascha Macht,Sascha Macht,,3,1,3.06,18
+716,Stefanie Sargnagel,Stefanie Sargnagel,,6,24,4.07,331
+717,Urs Mannhart,Urs Mannhart,,2,1,3.93,14
+718,Maxi Obexer,Maxi Obexer,,3,,3.25,12
+719,Gianna Molinari,Gianna Molinari,,1,5,3.47,163
+720,Eckhart Nickel,Eckhart Nickel,,13,3,3.36,472
+721,Jörg-Uwe Albig,Jörg-Uwe Albig,,13,2,3.47,45
+722,Jackie Thomae,Jackie Thomae,,3,4,3.85,247
+723,Verena Dürr,Verena Duregger,,2,,4.67,6
+724,Barbi Marković,Barbi Marković,,3,,3.56,78
+725,Ferdinand Schmalz,Ferdinand Schmalz,,3,3,3.67,6
+726,Noemi Schneider,Noemi Schneider,,4,1,3.12,25
+727,John Wray,John Wray,Literature & Fiction,22,118,3.25,5228
+729,Karin Peschka,Karin Peschka,,7,1,4.2,10
+730,Lennardt Loß,Lennardt Loß,,2,2,3.79,48
+731,Özlem Özgül Dündar,Özlem Özgül Dündar,,6,,3.94,33
+732,Stephan Groetzner,Stephan Groetzner,,2,,3.0,3
+733,Jakob Nolte,Jakob Nolte,,6,6,3.7,90
+734,Anselm Neft,Anselm Neft,,12,3,4.0,41
+735,Bov Bjerg,Bov Bjerg,,10,26,3.66,1890
+736,Tanja Maljartschuk,Tanja Maljartschuk,,7,1,3.78,37
+737,Ally Klein,Ally Klein,,2,,2.63,8
+738,Corinna T. Sievers,Corinna T. Sievers,,5,2,3.0,22
+739,Joshua Groß,Joshua Groß,Fiction,13,3,3.85,46
+740,Anna Stern,Anna Stern,,6,2,3.78,9
+741,Stephan Lohse,Stephan Lohse,,2,2,3.62,39
+742,Martina Clavadetscher,Martina Clavadetscher,,2,2,4.43,14
+743,Raphaela Edelbauer,Raphaela Edelbauer,,4,4,3.71,212
+744,Martin Beyer,Martin Beyer,Literature & Fiction,8,1,3.77,31
+745,Lukas Meschik,Lukas Meschik,,3,,4.33,3
+746,Leander Fischer,Leander Fisher,,2,,0.0,0
+748,Tom Kummer,Tom Kummer,,9,6,3.78,65
+749,Daniel Heitzler,Daniel Hertzler,,6,,3.0,4
+750,Birgit Birnbacher,Birgit Birnbacher,,4,1,3.81,32
+751,Ronya Othmann,Ronya Othmann,,4,,4.1,30
+752,Yannic Han Biao Federer,Yannic Han Biao Federer,,1,,3.33,18
+753,Andrea Gerster,Andrea Gerster,,6,,3.0,5
+754,Julia Jost,Jost W. Kramer,,49,,4.0,1
+755,Silvia Tschui,Silvia Tschui,,1,,4.5,6
+756,Sarah Wipauer,Valerie Katrin Fritsch Valerie Katrin G.,,1,,0.0,0
+757,Katharina Schultens,Katharina Schultens,,3,3,3.0,3
+758,Levin Westermann,Levin Westermann,,3,2,4.14,7
+759,Carolina Schutti,Carolina Schutti,,8,1,3.05,56
+760,Helga Schubert,Helga Schubert,,20,1,3.7,20
+761,Katja Schönherr,Katja Schönherr,,3,,4.07,15
+762,Jasmin Ramadan,Jasmin Ramadan,,6,1,3.25,120
+763,Jörg Piringer,Jörg Piringer,,2,,4.0,3
+765,Meral Kureyshi,Meral Kureyshi,,2,9,3.6,101
+766,Lisa Krusche,Lisa Krusche,,3,,4.67,3
+767,Leonhard Hieronymi,Leonhard Hieronymi,,3,2,3.2,15
+768,Hanna Herbst,Hanna Herbst,,3,3,4.32,105
+769,Lydia Haider,lydia haider,,7,,4.14,14
+770,Laura Freudenthaler,Laura Freudenthaler,,3,3,3.61,82
