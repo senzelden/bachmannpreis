@@ -1,6 +1,10 @@
+import spacy
 
 
-# positive characteristics:
+"""go once through the text to check for all good and bad words, apply POS tagging, count words, check for quotations, punctuation"""
+
+# POSITIVE CHARACTERISTICS:
+
 # 15 protagonist watches TV
 def protagonist_is_watching_TV():
     words = ["fernsehen",
@@ -22,7 +26,9 @@ def protagonist_is_watching_TV():
 
 # 48 author has to read as first person
 
-# negative characteristics:
+
+# NEGATIVE CHARACTERISTICS:
+
 # 34: title in plural (Vulkantänze, Sondagen) - check for noun in plural (as POS problem)
 def plural_in_title():
     ...
