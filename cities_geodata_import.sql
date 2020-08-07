@@ -3,7 +3,7 @@ CREATE TABLE cities_geodata (
     city_name VARCHAR(100),
     lat REAL,
     lon REAL,
-    total_authors INTEGER
+    distance_to_klagenfurt REAL
 );
 
-\COPY cities_geodata FROM '/home/denniss/Desktop/Coding/bachmann_data/cities_geodata.csv' DELIMITER ',' CSV HEADER;
+\COPY cities_geodata FROM '/home/denniss/Desktop/Coding/spiced/bachmannpreis/cities_geodata.csv' DELIMITER ',' CSV HEADER;

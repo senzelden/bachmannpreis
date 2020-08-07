@@ -1,4 +1,4 @@
-sutext_id,total_tokens,sentiment_score,tokens_without_sentiment,positive_tokens,positive_sentiment,negative_tokens,negative_sentiment,sentiment_distance,element_text
+text_id,total_tokens,sentiment_score,tokens_without_sentiment,positive_tokens,positive_sentiment,negative_tokens,negative_sentiment,sentiment_distance,discussion_summary
 524,182,-1.1121999999999999,153,12,3.2282,17,-4.340400000000001,7.568600000000001,"Ulrike Draeser aus Berlin beschloss den Klagenfurt Lesereigen. Ihr Auszug aus ""Lück"" schilderte die Kindheit einer Ich-Erzählerin, die immer hinter ihrer kleinen Schwester zurückstehen muss und deren Hassliebe einen Ausweg sucht.
 
 ""Es ist ein Spiel ums Glück, er habe dieses Spiel gerne gespielt"", so Denis Scheck. Er habe aber auch ein wenig Probleme mit der Kinderperspektive.

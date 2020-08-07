@@ -1,13 +1,15 @@
 CREATE TABLE texts (
     text_id SERIAL PRIMARY KEY NOT NULL,
-    text_title VARCHAR(300),
     author_id INTEGER NOT NULL,
+    text_title VARCHAR(300),
     date_participation DATE,
-    day_reading VARCHAR(20),
     invited_by INTEGER,
-    is_performance BOOLEAN,
     on_shortlist BOOLEAN,
-    discussion_summary TEXT,
+    font VARCHAR(100),
+    reading_order INTEGER,
+    day_reading VARCHAR(20),
+    reading_context VARCHAR(20),
+    total_days_reading INTEGER,
 
     FOREIGN KEY(author_id)
         REFERENCES authors ON DELETE CASCADE,
@@ -15,4 +17,4 @@ CREATE TABLE texts (
         REFERENCES critics
 );
 
-\COPY texts FROM '/home/denniss/Desktop/Coding/bachmann_data/texts.csv' DELIMITER ',' CSV HEADER;
+\COPY texts FROM '/home/denniss/Desktop/Coding/spiced/bachmannpreis/texts_updated.csv' DELIMITER ',' CSV HEADER;

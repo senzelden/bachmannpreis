@@ -1,4 +1,4 @@
-id,first_name,middle_name,last_name,birth_place,birth_date,gender,country,works_as_critic,is_literary_scholar,is_writer
+critic_id,first_name,middle_name,last_name,birth_place,birth_date,gender,country,works_as_critic,is_literary_scholar,is_writer
 0,Burkhard,,Spinnen,Mönchengladbach,1956-12-28,male,Deutschland,True,True,True
 1,Thomas,,Widmer,,1962-07-01,male,Schweiz,True,True,True
 2,Birgit,,Vanderbeke,Dahme/Mark,1956-08-08,female,Deutschland,,,True
@@ -23,7 +23,7 @@ id,first_name,middle_name,last_name,birth_place,birth_date,gender,country,works_
 21,André,Vladimir,Heiz,Langenthal,1951-08-27,male,Schweiz,False,True,True
 22,Alain,Claude,Sulzer,Riehen,1953-02-17,male,Schweiz,False,False,True
 23,Paul,,Jandl,Wien,1962-07-01,male,Österreich,True,True,False
-24,Hildegard,E.,Keller,St. Gallen,1960-07-01,female,Schweiz,True,True,True
+24,Hildegard,Elisabeth,Keller,St. Gallen,1960-07-01,female,Schweiz,True,True,True
 25,Meike,,Feßmann,München,1961-07-01,female,Deutschland,True,False,True
 26,Karin,,Fleischanderl,Steyr,1960-12-29,female,Österreich,False,False,True
 27,Hubert,,Winkels,Gohr bei Düsseldorf,1955-05-13,male,Deutschland,True,True,True

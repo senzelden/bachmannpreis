@@ -648,9 +648,9 @@ text_id,author_id,text_title,date_participation,invited_by,on_shortlist,font,rea
 646,580,Freundwärts,2007-07-10,107,True,Arial,15,3,first_reading,3
 647,581,Die Geschichte meiner Einschätzung am Anfang des dritten Jahrtausends,2007-07-10,79,True,Times New Roman,14,2,last_reading,3
 648,582,Wunschbruder (Romanauszug),2007-07-10,55,True,Verdana,13,2,,3
-649,583,Der Briefschreiber (Romanauszug),2007-07-10,,False,Georgia,12,2,,3
+649,583,Der Briefschreiber (Romanauszug),2007-07-10,106,False,Georgia,12,2,,3
 650,584,Böses Spiel,2007-07-10,102,False,,11,2,,3
-651,585,Mein afrikanisches Jubeljahr,2007-07-10,,False,Garamond,10,2,,3
+651,585,Mein afrikanisches Jubeljahr,2007-07-10,106,False,Garamond,10,2,,3
 652,586,Prolog eines neuen Romans,2007-07-10,104,False,Times New Roman,9,2,,3
 653,587,Die Furchtlosen,2007-07-10,99,True,Times New Roman,8,2,first_reading,3
 654,588,Turksib (Auszug),2007-07-10,100,True,Times New Roman,7,1,last_reading,3
@@ -663,14 +663,14 @@ text_id,author_id,text_title,date_participation,invited_by,on_shortlist,font,rea
 661,595,Muttervaterkind,2008-06-28,105,False,Times New Roman,14,2,last_reading,2
 662,596,Der Kaiser von China (Romanauszug),2008-06-28,99,True,Garamond,13,2,,2
 663,597,Pomona,2008-06-28,108,True,Times New Roman,12,2,,2
-664,598,Inland,2008-06-28,,False,Courier,11,2,,2
+664,598,Inland,2008-06-28,106,False,Courier,11,2,,2
 665,599,Flugangst,2008-06-28,92,False,Arial,10,2,,2
 666,600,Im roten Meer,2008-06-28,105,True,Times New Roman,9,2,,2
 667,601,Das luftige Leben,2008-06-28,99,False,Times New Roman,8,2,first_reading,2
 668,602,Das Zimmermädchen (Romanauszug),2008-06-28,102,True,Garamond,7,1,last_reading,2
 669,603,Kein schöner Land (Romanauszug),2008-06-28,92,True,Courier,6,1,,2
 670,604,Der Tod ist ein Postmann mit Hut (Romanauszug),2008-06-28,108,False,Times New Roman,5,1,,2
-671,605,Super-8,2008-06-28,,False,Georgia,4,1,,2
+671,605,Super-8,2008-06-28,106,False,Georgia,4,1,,2
 672,606,Die Waage,2008-06-28,102,False,,3,1,,2
 673,607,Scherbenpark (Romanauszug),2008-06-28,107,True,Bookman Old Style,2,1,,2
 674,608,Livia,2008-06-28,107,False,Times New Roman,1,1,first_reading,2
@@ -750,23 +750,23 @@ text_id,author_id,text_title,date_participation,invited_by,on_shortlist,font,rea
 748,679,Ignis Cool,2014-07-06,112,False,Calibri,10,2,last_reading,3
 749,680,Simeliberg (Romanauszug),2014-07-06,115,True,Helvetica,9,2,after_break,3
 750,681,Vor der Zunahme der Zeichen (Romanauszug),2014-07-06,109,True,Times New Roman,8,2,before_break,3
-751,682,Maia,2014-07-06,,False,Calibri,7,2,,3
+751,682,Maia,2014-07-06,124,False,Calibri,7,2,,3
 752,683,Ichthys,2014-07-06,92,False,,6,2,first_reading,3
 753,514,Unter Platanen,2014-07-06,102,False,Cambria,5,1,last_reading,3
 754,684,Ujjayi (Romanauszug),2014-07-06,113,True,Arial,4,1,after_break,3
 755,685,Steuerstrafakte,2014-07-06,115,False,Times New Roman,3,1,before_break,3
 756,686,unbetitelter Text,2014-07-06,109,False,Calibri,2,1,,3
-757,687,Die fröhlichen Pferde von Chauvet,2014-07-06,,True,Times New Roman,1,1,first_reading,3
-758,688,Das primäre Gefühl der Schuldlosigkeit,2015-07-05,112,Shortlist ,Cambria,14,3,last_reading,3
-759,689,"Oh, Schimmi",2015-07-05,113,Shortlist ,Georgia,13,3,,3
-760,690,Die Farbe des Granatapfels,2015-07-05,116,Shortlist ,Calibri,12,3,,3
-761,691,Erwachen im 21. Jahrhundert,2015-07-05,115,Shortlist ,Arial,11,3,first_reading,3
+757,687,Die fröhlichen Pferde von Chauvet,2014-07-06,124,True,Times New Roman,1,1,first_reading,3
+758,688,Das primäre Gefühl der Schuldlosigkeit,2015-07-05,112,True ,Cambria,14,3,last_reading,3
+759,689,"Oh, Schimmi",2015-07-05,113,True ,Georgia,13,3,,3
+760,690,Die Farbe des Granatapfels,2015-07-05,116,True ,Calibri,12,3,,3
+761,691,Erwachen im 21. Jahrhundert,2015-07-05,115,True ,Arial,11,3,first_reading,3
 762,692,Welt am Sonntag,2015-07-05,113,False,Times New Roman,10,2,last_reading,3
-763,693,Esche,2015-07-05,112,Shortlist ,Calibri,9,2,after_break,3
+763,693,Esche,2015-07-05,112,True ,Calibri,9,2,after_break,3
 764,429,Zum Paradies,2015-07-05,115,False,Cambria,8,2,before_break,3
 765,694,Krieger sein Bruder sein – Manifest 47,2015-07-05,117,False,Calibri,7,2,,3
 766,695,RTL-Reptil,2015-07-05,116,False,Calibri,6,2,first_reading,3
-767,696,Das Bein,2015-07-05,117,Shortlist ,Times New Roman,5,1,last_reading,3
+767,696,Das Bein,2015-07-05,117,True ,Times New Roman,5,1,last_reading,3
 768,697,"BROT, BROT, BROT",2015-07-05,109,False,Times New Roman,4,1,after_break,3
 769,698,Hierbleiben,2015-07-05,118,False,,3,1,,3
 770,699,Recherche,2015-07-05,118,True,Cambria,2,1,,3
