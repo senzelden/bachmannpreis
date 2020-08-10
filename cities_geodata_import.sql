@@ -24,12 +24,13 @@
 -- \COPY authors_cities FROM '/home/denniss/Desktop/Coding/spiced/bachmannpreis/cities_updated.csv' DELIMITER ',' CSV HEADER;
 
 
--- CREATE TABLE countries (
---     country_id INTEGER PRIMARY KEY,
---     country_name VARCHAR(200)
--- );
---
--- \COPY countries FROM '/home/denniss/Desktop/Coding/spiced/bachmannpreis/unique_countries.csv' DELIMITER ',' CSV HEADER;
+CREATE TABLE countries_geodata (
+    country_id INTEGER PRIMARY KEY,
+    country_name VARCHAR(200),
+    iso_3166 VARCHAR(10)
+);
+
+\COPY countries_geodata FROM '/home/denniss/Desktop/Coding/spiced/bachmannpreis/countries_geodata.csv' DELIMITER ',' CSV HEADER;
 
 
 CREATE TABLE authors_countries (
@@ -42,7 +43,7 @@ CREATE TABLE authors_countries (
     FOREIGN KEY (text_id)
         REFERENCES texts,
     FOREIGN KEY (country_id)
-        REFERENCES countries
+        REFERENCES countries_geodata
 );
 
 \COPY authors_countries FROM '/home/denniss/Desktop/Coding/spiced/bachmannpreis/countries_updated.csv' DELIMITER ',' CSV HEADER;
