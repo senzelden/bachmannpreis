@@ -1,0 +1,64 @@
+price_id,price_title,price_money,currency,price_money_start
+0,Stipendium,5000,Mark,1977-01-01
+1,Sonderpreis der Klagenfurter Jury,52000,Schilling,1977-01-01
+2,Ingeborg-Bachmann-Preis,100000,Schilling,1977-01-01
+3,Sonderpreis der Klagenfurter Jury,50000,Schilling,1978-01-01
+4,Stipendium,25000,Schilling,1978-01-01
+5,Stipendium der Verleger,30000,Schilling,1980-01-01
+6,Sonderpreis der Klagenfurter Jury,75000,Schilling,1981-01-01
+7,Stipendium der Verleger,50000,Schilling,1981-01-01
+8,Ingeborg-Bachmann-Preis,120000,Schilling,1982-01-01
+9,Stipendium der Verleger,55000,Schilling,1982-01-01
+10,Preis der Industriellenvereinigung,60000,Schilling,1983-01-01
+11,Ernst-Willner-Stipendium,40000,Schilling,1983-01-01
+12,Ingeborg-Bachmann-Preis,150000,Schilling,1985-01-01
+13,Ernst-Willner-Stipendium,45000,Schilling,1985-01-01
+14,Preis des Landes Kärnten,75000,Schilling,1986-01-01
+15,Preis der Stadt Wiesbaden,50000,Schilling,1986-01-01
+16,Ernst-Willner-Preis,60000,Schilling,1987-01-01
+17,Stipendium der Kärntner Industrie,30000,Schilling,1987-01-01
+18,Literaturförderpreis der Stadt Dachau,25000,Schilling,1987-01-01
+19,Stipendium der 23 Verlage,30000,Schilling,1988-01-01
+20,Stipendium der Verlage,30000,Schilling,1989-01-01
+21,3sat-Auszeichnung,5000,Mark,1989-01-01
+22,Preis des Landes Kärnten,100000,Schilling,1991-01-01
+23,Ernst-Willner-Preis,70000,Schilling,1991-01-01
+24,Bertelsmann-Stipendium,6000,Mark,1991-01-01
+25,3sat-Stipendium,6000,Mark,1991-01-01
+26,Ingeborg-Bachmann-Preis,200000,Schilling,1993-01-01
+27,Ernst-Willner-Preis,75000,Schilling,1993-01-01
+28,Ernst-Willner-Preis,80000,Schilling,1994-01-01
+29,Bertelsmann-Stipendium,7000,Mark,1991-01-01
+30,Ernst-Willner-Preis,85000,Schilling,1995-01-01
+31,Bertelsmann-Literaturpreis,10000,Mark,1995-01-01
+32,Ingeborg-Bachmann-Preis,250000,Schilling,1998-01-01
+33,Preis des Landes Kärnten,120000,Schilling,1998-01-01
+34,Ernst-Willner-Preis,100000,Schilling,1998-01-01
+35,Ernst-Willner-Preis,160000,Schilling,1999-01-01
+36,Telekom-Stipendium,50000,Schilling,1999-01-01
+37,Preis der Jury,120000,Schilling,2000-01-01
+38,Stipendium der Plattform kulturinteressierter Kärntnerinnen und Kärntner,50000,Schilling,2000-01-01
+39,3sat-Preis,10000,Mark,2000-01-01
+40,Ingeborg-Bachmann-Preis,300000,Schilling,2001-01-01
+41,Preis der Jury,200000,Schilling,2001-01-01
+42,Ernst-Willner-Preis,120000,Schilling,2001-01-01
+43,3sat-Preis,100000,Schilling,2001-01-01
+44,Ingeborg-Bachmann-Preis,21800,Euro,2002-01-01
+45,Preis der Jury,10000,Euro,2002-01-01
+46,Ernst-Willner-Preis,8500,Euro,2002-01-01
+47,3sat-Preis,7500,Euro,2002-01-01
+48,Kelag-Publikumspreis,5000,Euro,2002-01-01
+49,Ingeborg-Bachmann-Preis,22500,Euro,2003-01-01
+50,Ernst-Willner-Preis,6000,Euro,2003-01-01
+51,Ernst-Willner-Preis,7000,Euro,2004-01-01
+52,Ingeborg-Bachmann-Preis,25000,Euro,2006-01-01
+53,Telekom Austria-Preis,10000,Euro,2006-01-01
+54,Kelag-Publikumspreis,6000,Euro,2008-01-01
+55,automatischer Literaturkritikpreis,500,Euro,2008-01-01
+56,Kelag-Preis,10000,Euro,2009-01-01
+57,Hypo-Group-Publikumspreis,7000,Euro,2009-01-01
+58,VILLI-Publikumspreis,7000,Euro,2011-01-01
+59,Stadtschreiber-Stipendium der Stadt Klagenfurt,5000,Euro,2012-01-01
+60,BKS Bank-Publikumspreis,7000,Euro,2012-01-01
+61,Ernst-Willner-Preis,5000,Euro,2012-01-01
+62,Deutschlandfunk-Preis,12500,Euro,2017-01-01
