@@ -31,3 +31,5 @@ This project consists of five parts that have been realised:
 
 ##### 5. Chatbot
 * Program chatbot for user interaction (Rasa)
+
+![rasa_bot](images/bachmann_rasabot.gif)
