@@ -80,9 +80,9 @@ class SentimentAnalyzer:
                 sentiment_scores.append(sentiment_score)
                 sentiment_distance = positive_rating - negative_rating
                 print("SENTIMENT DISTANCE: ", sentiment_distance)
-                {k: v for k, v in sorted(pos_tokens_dict.items(), key=lambda item: item[1])}
+                pos_tokens_dict = {k: v for k, v in sorted(pos_tokens_dict.items(), key=lambda item: item[1], reverse=True)}
                 print("POSITIVE TOKENS DICTIONARY: ", pos_tokens_dict)
-                {k: v for k, v in sorted(neg_tokens_dict.items(), key=lambda item: item[1])}
+                neg_tokens_dict = {k: v for k, v in sorted(neg_tokens_dict.items(), key=lambda item: item[1], reverse=True)}
                 print("NEGATIVE TOKENS DICTIONARY: ", neg_tokens_dict, "\n")
                 summary_sentiment = pd.concat([summary_sentiment, pd.DataFrame(
                     [[i + 524], [total_tokens], [sentiment_score], [not_covered_tokens], [pos_tokens],
@@ -194,8 +194,8 @@ class SentimentAnalyzer:
                             talking.append(critic)
                             talking_ids.append(str(critics_all[critics_all.full_name == critic]['critic_id'].values[0]))
                     print(author_id, i, ", ".join(talking), sentiment_score)
-                    {k: v for k, v in sorted(pos_tokens_dict.items(), key=lambda item: item[1])}
-                    {k: v for k, v in sorted(neg_tokens_dict.items(), key=lambda item: item[1])}
+                    pos_tokens_dict = {k: v for k, v in sorted(pos_tokens_dict.items(), key=lambda item: item[1], reverse=True)}
+                    neg_tokens_dict = {k: v for k, v in sorted(neg_tokens_dict.items(), key=lambda item: item[1], reverse=True)}
                     detailed_scores = pd.concat([detailed_scores, pd.DataFrame(
                         [[author_id], [i], ["|".join(talking_ids)], ["|".join(talking)], [total_tokens], [sentiment_score],
                          [not_covered_tokens], [pos_tokens], [positive_rating], [neg_tokens], [negative_rating],
