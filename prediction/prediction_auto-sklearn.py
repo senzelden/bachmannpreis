@@ -24,11 +24,11 @@ y_test = df[df.year == 2020]["price_won"]
 #
 # automl.fit(X_train, y_train)
 
-automl = load('bachmann_automl.joblib')
+cls = load('bachmann_automl.joblib')
 
-predictions = automl.predict(X_test)
+predictions = cls.predict(X_test)
 print(predictions)
-print(automl.sprint_statistics())
+print(cls.sprint_statistics())
 print("Accuracy score:{}".format(
     sklearn.metrics.accuracy_score(y_test, predictions))
 )
