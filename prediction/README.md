@@ -11,7 +11,7 @@ models to finally find a model that surpasses an accuracy score of over 84% on t
 ![auto-sklearn_performance](../images/auto-sklearn_accuracy.png)
 
 ### Usage
-Auto-Sklearn is easiest run in a docker container. For installation instructions see [here](https://automl.github.io/auto-sklearn/master/installation.html).  
+Auto-Sklearn is best run in a docker container. For installation instructions see [here](https://automl.github.io/auto-sklearn/master/installation.html).  
 To start a Jupyter notebook inside the container use: 
 ```
 docker run -it -v $PWD:/opt/nb -p 8888:8888 mfeurer/auto-sklearn:master /bin/bash -c "mkdir -p /opt/nb && jupyter notebook --notebook-dir=/opt/nb --ip='0.0.0.0' --port=8888 --no-browser --allow-root"
